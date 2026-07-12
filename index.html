@@ -28,11 +28,11 @@
   .best-section { padding: 16px 16px 4px; max-width: 1100px; margin: 0 auto; }
   .best-title { font-size: 18px; font-weight: 700; margin-bottom: 12px; }
   .best-title::before { content: "🔥 "; }
-  .best-gallery { display: grid; grid-auto-flow: column; grid-template-rows: repeat(2, auto); gap: 16px; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 10px; }
+  .best-gallery { display: flex; gap: 16px; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 10px; scroll-snap-type: x proximity; }
   .best-gallery::-webkit-scrollbar { display: none; }
-  .best-gallery .card { width: 260px; flex: 0 0 auto; }
-  .best-gallery .card .name { font-size: 15px; -webkit-line-clamp: 2; height: 42px; }
-  .best-gallery .card .price { font-size: 18px; }
+  .best-gallery .card { flex: 0 0 auto; width: min(78vw, 340px); scroll-snap-align: start; }
+  .best-gallery .card .name { font-size: 16px; -webkit-line-clamp: 2; height: 46px; }
+  .best-gallery .card .price { font-size: 20px; }
   .cat-bar { display: flex; gap: 8px; overflow-x: auto; padding: 12px 16px; max-width: 1100px; margin: 0 auto; -webkit-overflow-scrolling: touch; }
   .cat-bar::-webkit-scrollbar { display: none; }
   .cat-btn { flex: 0 0 auto; padding: 7px 14px; border-radius: 999px; border: 1px solid #ddd; background: #fff; color: #444; font-size: 13px; cursor: pointer; white-space: nowrap; }
