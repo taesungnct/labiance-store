@@ -5,6 +5,18 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64454013</g:id>
+      <title>텐트형모기장 여름모기장 대형 사각 원터치</title>
+      <description>텐트형모기장 여름모기장 대형 사각 원터치</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64454013.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260713_296/1783881028073d0DjC_JPEG/54900469197584529_1938292801.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>55640 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66479721</g:id>
       <title>메모리폼 키보드 손목 받침대 보호대 쿠션 패드 손목보호키보드</title>
       <description>메모리폼 키보드 손목 받침대 보호대 쿠션 패드 손목보호키보드</description>
@@ -1925,18 +1937,6 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
-      <g:id>11st-64454013</g:id>
-      <title>텐트형모기장 여름모기장 대형 사각 원터치 모기장</title>
-      <description>텐트형모기장 여름모기장 대형 사각 원터치 모기장</description>
-      <link>https://taesungnct.github.io/labiance-store/products/11st-64454013.html</link>
-      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/04/14/17760958317426A1DF270C6B8BD8A6D2/17760958317426A1DF270C6B8BD8A6D2_img_330?hash=a4ef68b3f6e0f08e63c6ed6b70066212</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>56970 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
       <g:id>11st-66497704</g:id>
       <title>타이머 카운트다운 운동 달리기 측정 초시계</title>
       <description>타이머 카운트다운 운동 달리기 측정 초시계</description>
@@ -2833,6 +2833,18 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>6300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64696969</g:id>
+      <title>안심숙면 블루 180X200 거실모기장 대형모기장 방충모기장 메쉬모기장</title>
+      <description>안심숙면 블루 180X200 거실모기장 대형모기장 방충모기장 메쉬모기장</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64696969.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7055/465afbf4c7b4c6c4cfabbd2cd02b1a0e5b770b2207f0f2312ed17dac1347.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>32310 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
