@@ -26,11 +26,13 @@
   .search-bar input { width: 100%; padding: 12px 16px; border-radius: 999px; border: 1px solid #ddd; font-size: 14px; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
   .search-bar input:focus { outline: none; border-color: #111; }
   .best-section { padding: 16px 16px 4px; max-width: 1100px; margin: 0 auto; }
-  .best-title { font-size: 15px; font-weight: 700; margin-bottom: 10px; }
+  .best-title { font-size: 18px; font-weight: 700; margin-bottom: 12px; }
   .best-title::before { content: "🔥 "; }
-  .best-gallery { display: grid; grid-auto-flow: column; grid-template-rows: repeat(2, auto); gap: 10px; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 6px; }
+  .best-gallery { display: grid; grid-auto-flow: column; grid-template-rows: repeat(2, auto); gap: 16px; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 10px; }
   .best-gallery::-webkit-scrollbar { display: none; }
-  .best-gallery .card { width: 130px; flex: 0 0 auto; }
+  .best-gallery .card { width: 260px; flex: 0 0 auto; }
+  .best-gallery .card .name { font-size: 15px; -webkit-line-clamp: 2; height: 42px; }
+  .best-gallery .card .price { font-size: 18px; }
   .cat-bar { display: flex; gap: 8px; overflow-x: auto; padding: 12px 16px; max-width: 1100px; margin: 0 auto; -webkit-overflow-scrolling: touch; }
   .cat-bar::-webkit-scrollbar { display: none; }
   .cat-btn { flex: 0 0 auto; padding: 7px 14px; border-radius: 999px; border: 1px solid #ddd; background: #fff; color: #444; font-size: 13px; cursor: pointer; white-space: nowrap; }
@@ -62,7 +64,7 @@
 <div class="best-section">
   <p class="best-title">베스트 아이템</p>
   <div class="best-gallery">
-<a class="card" data-cat="패션잡화" data-name="핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑" href="products/11st-64537252.html"><img src="https://cdn1.domeggook.com/upload/item/2026/04/17/17764063193C4D3B64B1779595FAA269/17764063193C4D3B64B1779595FAA269_img_330?hash=4d3b06f57a9bbfd235582992c2eddaa5" alt="핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑" loading="lazy"><div class="info"><p class="name">핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑</p><p class="price">7,340원</p></div></a>
+<a class="card" data-cat="패션잡화" data-name="맥세이프카드지갑 magsafe 마그네틱 카드 홀더는 apple iphone 15 3단 지갑" href="products/naver-66506350.html"><img src="https://shop-phinf.pstatic.net/20260712_20/1783864808543zRexe_JPEG/6941752598283023_1156695912.jpg" alt="맥세이프카드지갑 Magsafe 마그네틱 카드 홀더는 Apple Iphone 15 3단 지갑" loading="lazy"><div class="info"><p class="name">맥세이프카드지갑 Magsafe 마그네틱 카드 홀더는 Apple Iphone 15 3단 지갑</p><p class="price">4,250원</p></div></a>
 <a class="card" data-cat="생활용품" data-name="접이식캠핑카트 다용도카트 접이식 쇼핑카트" href="products/coupang-64448834.html"><img src="https://image1.coupangcdn.com/image/vendor_inventory/596c/56471004198025991b0a2e1bc0f029bfa57ae5f4bdc6913cca21f30f3100.jpg" alt="접이식캠핑카트 다용도카트 접이식 쇼핑카트" loading="lazy"><div class="info"><p class="name">접이식캠핑카트 다용도카트 접이식 쇼핑카트</p><p class="price">7,900원</p></div></a>
 <a class="card" data-cat="디지털/가전" data-name="타이머 카운트다운 운동 달리기 측정 초시계" href="products/11st-66497704.html"><img src="https://cdn1.domeggook.com/upload/item/2026/07/12/1783822096EA27BADEC63A072C1642C6/1783822096EA27BADEC63A072C1642C6_img_330?hash=50a254746e62bae38ce2141a7194287e" alt="타이머 카운트다운 운동 달리기 측정 초시계" loading="lazy"><div class="info"><p class="name">타이머 카운트다운 운동 달리기 측정 초시계</p><p class="price">5,390원</p></div></a>
 <a class="card" data-cat="스포츠/레저" data-name="스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개" href="products/coupang-64423149.html"><img src="https://image1.coupangcdn.com/image/vendor_inventory/8869/0ef83011f664dfe78b1817417a8697d1d1df0b856ec230c649502a46c5d1.jpg" alt="스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개" loading="lazy"><div class="info"><p class="name">스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</p><p class="price">12,930원</p></div></a>
@@ -78,6 +80,7 @@
 <button class="cat-btn" data-cat="가구/인테리어">가구/인테리어</button>
 </nav>
 <main class="grid" id="grid">
+<a class="card" data-cat="패션잡화" data-name="맥세이프카드지갑 magsafe 마그네틱 카드 홀더는 apple iphone 15 3단 지갑" href="products/naver-66506350.html"><img src="https://shop-phinf.pstatic.net/20260712_20/1783864808543zRexe_JPEG/6941752598283023_1156695912.jpg" alt="맥세이프카드지갑 Magsafe 마그네틱 카드 홀더는 Apple Iphone 15 3단 지갑" loading="lazy"><div class="info"><p class="name">맥세이프카드지갑 Magsafe 마그네틱 카드 홀더는 Apple Iphone 15 3단 지갑</p><p class="price">4,250원</p></div></a>
 <a class="card" data-cat="스포츠/레저" data-name="무릎보호대 슬개건 깔끔정리 보호 밴드 테이핑 압박 등산 러닝 스포츠 스트랩" href="products/naver-65757352.html"><img src="https://shop-phinf.pstatic.net/20260712_40/1783782914730Oqpat_JPEG/16098154855554953_726276272.jpg" alt="무릎보호대 슬개건 깔끔정리 보호 밴드 테이핑 압박 등산 러닝 스포츠 스트랩" loading="lazy"><div class="info"><p class="name">무릎보호대 슬개건 깔끔정리 보호 밴드 테이핑 압박 등산 러닝 스포츠 스트랩</p><p class="price">13,230원</p></div></a>
 <a class="card" data-cat="스포츠/레저" data-name="강아지 슬개골 탈구 보호대 소형 애견슬개골보호대 강아지무릎보조기" href="products/naver-64437098.html"><img src="https://shop-phinf.pstatic.net/20260712_100/1783854018183XE1Ww_JPEG/6930962235842124_1937634520.jpg" alt="강아지 슬개골 탈구 보호대 소형 애견슬개골보호대 강아지무릎보조기" loading="lazy"><div class="info"><p class="name">강아지 슬개골 탈구 보호대 소형 애견슬개골보호대 강아지무릎보조기</p><p class="price">9,910원</p></div></a>
 <a class="card" data-cat="스포츠/레저" data-name="3s 웨건 접이식구르마 휴대 접이식웨건 캠핑왜건" href="products/naver-65553188.html"><img src="https://shop-phinf.pstatic.net/20260712_67/1783850418428lFDEF_JPEG/7118881554087996_1083943346.jpg" alt="3S 웨건 접이식구르마 휴대 접이식웨건 캠핑왜건" loading="lazy"><div class="info"><p class="name">3S 웨건 접이식구르마 휴대 접이식웨건 캠핑왜건</p><p class="price">208,260원</p></div></a>
