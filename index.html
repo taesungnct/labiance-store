@@ -25,6 +25,12 @@
   .search-bar { padding: 16px 16px 4px; max-width: 1100px; margin: 0 auto; }
   .search-bar input { width: 100%; padding: 12px 16px; border-radius: 999px; border: 1px solid #ddd; font-size: 14px; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
   .search-bar input:focus { outline: none; border-color: #111; }
+  .best-section { padding: 16px 16px 4px; max-width: 1100px; margin: 0 auto; }
+  .best-title { font-size: 15px; font-weight: 700; margin-bottom: 10px; }
+  .best-title::before { content: "🔥 "; }
+  .best-gallery { display: grid; grid-auto-flow: column; grid-template-rows: repeat(2, auto); gap: 10px; overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 6px; }
+  .best-gallery::-webkit-scrollbar { display: none; }
+  .best-gallery .card { width: 130px; flex: 0 0 auto; }
   .cat-bar { display: flex; gap: 8px; overflow-x: auto; padding: 12px 16px; max-width: 1100px; margin: 0 auto; -webkit-overflow-scrolling: touch; }
   .cat-bar::-webkit-scrollbar { display: none; }
   .cat-btn { flex: 0 0 auto; padding: 7px 14px; border-radius: 999px; border: 1px solid #ddd; background: #fff; color: #444; font-size: 13px; cursor: pointer; white-space: nowrap; }
@@ -52,6 +58,16 @@
 </header>
 <div class="search-bar">
   <input type="search" id="searchInput" placeholder="상품명으로 검색">
+</div>
+<div class="best-section">
+  <p class="best-title">베스트 아이템</p>
+  <div class="best-gallery">
+<a class="card" data-cat="패션잡화" data-name="핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑" href="products/11st-64537252.html"><img src="https://cdn1.domeggook.com/upload/item/2026/04/17/17764063193C4D3B64B1779595FAA269/17764063193C4D3B64B1779595FAA269_img_330?hash=4d3b06f57a9bbfd235582992c2eddaa5" alt="핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑" loading="lazy"><div class="info"><p class="name">핸드폰 카드지갑 신용카드지갑 교통카드지갑 미니지갑</p><p class="price">7,340원</p></div></a>
+<a class="card" data-cat="생활용품" data-name="접이식캠핑카트 다용도카트 접이식 쇼핑카트" href="products/coupang-64448834.html"><img src="https://image1.coupangcdn.com/image/vendor_inventory/596c/56471004198025991b0a2e1bc0f029bfa57ae5f4bdc6913cca21f30f3100.jpg" alt="접이식캠핑카트 다용도카트 접이식 쇼핑카트" loading="lazy"><div class="info"><p class="name">접이식캠핑카트 다용도카트 접이식 쇼핑카트</p><p class="price">7,900원</p></div></a>
+<a class="card" data-cat="디지털/가전" data-name="타이머 카운트다운 운동 달리기 측정 초시계" href="products/11st-66497704.html"><img src="https://cdn1.domeggook.com/upload/item/2026/07/12/1783822096EA27BADEC63A072C1642C6/1783822096EA27BADEC63A072C1642C6_img_330?hash=50a254746e62bae38ce2141a7194287e" alt="타이머 카운트다운 운동 달리기 측정 초시계" loading="lazy"><div class="info"><p class="name">타이머 카운트다운 운동 달리기 측정 초시계</p><p class="price">5,390원</p></div></a>
+<a class="card" data-cat="스포츠/레저" data-name="스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개" href="products/coupang-64423149.html"><img src="https://image1.coupangcdn.com/image/vendor_inventory/8869/0ef83011f664dfe78b1817417a8697d1d1df0b856ec230c649502a46c5d1.jpg" alt="스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개" loading="lazy"><div class="info"><p class="name">스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</p><p class="price">12,930원</p></div></a>
+<a class="card" data-cat="가구/인테리어" data-name="[abc0090] 접이식테이블 캠핑테이블 침대책상 좌식책상" href="products/lotteon-40682660.html"><img src="https://shop-phinf.pstatic.net/20260712_258/1783833346866SbTKG_JPEG/12945125997613583_562756590.jpg" alt="[ABC0090] 접이식테이블 캠핑테이블 침대책상 좌식책상" loading="lazy"><div class="info"><p class="name">[ABC0090] 접이식테이블 캠핑테이블 침대책상 좌식책상</p><p class="price">8,770원</p></div></a>
+  </div>
 </div>
 <nav class="cat-bar">
 <button class="cat-btn active" data-cat="all">전체</button>
@@ -245,7 +261,7 @@
 <a class="card" data-cat="패션잡화" data-name="여성 챙넓은 썬캡 햇빛가리개 휴양지 비치 쌩얼 벙거지 커플 커플모자" href="products/lotteon-66452546.html"><img src="https://shop-phinf.pstatic.net/20260710_121/1783682130606hXSTy_JPEG/6759074668259166_426166925.jpg" alt="여성 챙넓은 썬캡 햇빛가리개 휴양지 비치 쌩얼 벙거지 커플 커플모자" loading="lazy"><div class="info"><p class="name">여성 챙넓은 썬캡 햇빛가리개 휴양지 비치 쌩얼 벙거지 커플 커플모자</p><p class="price">8,260원</p></div></a>
 <a class="card" data-cat="패션잡화" data-name="파스텔 미니 캡슐 초경량 우양산 암막 가벼운 자외선차단 장마철 미니우산" href="products/lotteon-65601898.html"><img src="https://shop-phinf.pstatic.net/20260710_86/1783685917195ccBBk_JPEG/6762861257167190_1518846971.jpg" alt="파스텔 미니 캡슐 초경량 우양산 암막 가벼운 자외선차단 장마철 미니우산" loading="lazy"><div class="info"><p class="name">파스텔 미니 캡슐 초경량 우양산 암막 가벼운 자외선차단 장마철 미니우산</p><p class="price">13,210원</p></div></a>
 <a class="card" data-cat="스포츠/레저" data-name="여성용 무릎 보호대 압박 니트 슬리브 운동 등산 헬스 관절보호 신축성 3컬러" href="products/lotteon-66380194.html"><img src="https://shop-phinf.pstatic.net/20260710_16/1783662329990A0k9J_JPEG/117795129122599398_587812797.jpg" alt="여성용 무릎 보호대 압박 니트 슬리브 운동 등산 헬스 관절보호 신축성 3컬러" loading="lazy"><div class="info"><p class="name">여성용 무릎 보호대 압박 니트 슬리브 운동 등산 헬스 관절보호 신축성 3컬러</p><p class="price">23,210원</p></div></a>
-<a class="card" data-cat="패션잡화" data-name="말차무스 진주 초경량 암막 우산 휴대용 양산 우양산" href="products/lotteon-65149462.html"><img src="https://shop-phinf.pstatic.net/20260711_44/1783696563668hm1z3_JPEG/117829362804440578_132346837.jpg" alt="말차무스 진주 초경량 암막 우산 휴대용 양산 우양산" loading="lazy"><div class="info"><p class="name">말차무스 진주 초경량 암막 우산 휴대용 양산 우양산</p><p class="price">16,990원</p></div></a>
+<a class="card" data-cat="패션잡화" data-name="말차무스 진주 초경량 암막 우산 휴대용 양산 우양산" href="products/lotteon-65149462.html"><img src="https://shop-phinf.pstatic.net/20260711_44/1783696563668hm1z3_JPEG/117829362804440578_132346837.jpg" alt="말차무스 진주 초경량 암막 우산 휴대용 양산 우양산" loading="lazy"><div class="info"><p class="name">말차무스 진주 초경량 암막 우산 휴대용 양산 우양산</p><p class="price">19,630원</p></div></a>
 <a class="card" data-cat="패션잡화" data-name="uv차단 코팅 땡땡이 암막우산 우양산 장우산" href="products/lotteon-55832562.html"><img src="https://shop-phinf.pstatic.net/20260711_41/1783700129420yXNzN_JPEG/54719570543623887_132848875.jpg" alt="UV차단 코팅 땡땡이 암막우산 우양산 장우산" loading="lazy"><div class="info"><p class="name">UV차단 코팅 땡땡이 암막우산 우양산 장우산</p><p class="price">9,710원</p></div></a>
 <a class="card" data-cat="패션잡화" data-name="초경량우양산 초경량우산 우양산" href="products/lotteon-64427236.html"><img src="https://shop-phinf.pstatic.net/20260711_126/1783703728544gnTB2_JPEG/2861005349384392_1322262514.jpg" alt="초경량우양산 초경량우산 우양산" loading="lazy"><div class="info"><p class="name">초경량우양산 초경량우산 우양산</p><p class="price">9,550원</p></div></a>
 <a class="card" data-cat="생활용품" data-name="인조가죽 계산기 서류가방 문서보관 남자 클러치백" href="products/lotteon-66461780.html"><img src="https://shop-phinf.pstatic.net/20260711_227/17837073152099lxu7_JPEG/2864592017967648_1699809878.jpg" alt="인조가죽 계산기 서류가방 문서보관 남자 클러치백" loading="lazy"><div class="info"><p class="name">인조가죽 계산기 서류가방 문서보관 남자 클러치백</p><p class="price">50,710원</p></div></a>
@@ -296,7 +312,7 @@ var currentQuery = '';
 
 function applyFilter() {
   var visibleCount = 0;
-  document.querySelectorAll('.card').forEach(function(card) {
+  document.querySelectorAll('#grid .card').forEach(function(card) {
     var matchesCat = currentCat === 'all' || card.dataset.cat === currentCat;
     var matchesQuery = currentQuery === '' || card.dataset.name.indexOf(currentQuery) !== -1;
     var show = matchesCat && matchesQuery;
