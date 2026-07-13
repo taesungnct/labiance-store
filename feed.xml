@@ -5,6 +5,18 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>coupang-64423149</g:id>
+      <title>스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</title>
+      <description>스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64423149.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8869/0ef83011f664dfe78b1817417a8697d1d1df0b856ec230c649502a46c5d1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>12930 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-63715285</g:id>
       <title>미용실 이동식 바퀴 트레이 웨건 트롤리 선반 4단</title>
       <description>미용실 이동식 바퀴 트레이 웨건 트롤리 선반 4단</description>
@@ -2845,18 +2857,6 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7900 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-64423149</g:id>
-      <title>스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</title>
-      <description>스판덱스 쿨링 다리 토시 무릎 보호대 스포츠 쿨토시 2개</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64423149.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8869/0ef83011f664dfe78b1817417a8697d1d1df0b856ec230c649502a46c5d1.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:price>12930 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
