@@ -1632,7 +1632,7 @@
       <g:image_link>https://cdn1.domeggook.com/upload/item/2026/01/19/17688340360BA35B5F6231E767A04ABF/17688340360BA35B5F6231E767A04ABF_img_330?hash=a8efab5d04c004d65458b54886926c49</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>38890 KRW</g:price>
+      <g:price>35360 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -1644,7 +1644,7 @@
       <g:image_link>https://cdn1.domeggook.com/upload/item/2026/06/13/1781278827E5E2331076B85B4F15BE0E/1781278827E5E2331076B85B4F15BE0E_img_330?hash=d14c4d43227f022be27fce64d92af319</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>5430 KRW</g:price>
+      <g:price>6340 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -1656,7 +1656,7 @@
       <g:image_link>https://cdn1.domeggook.com/upload/item/2022/07/14/16577618567B44DD65F3F5CFF9177569/16577618567B44DD65F3F5CFF9177569_img_330?hash=2267a9eeedf208b790af1cb43c4dc5f2</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
-      <g:price>11170 KRW</g:price>
+      <g:price>9580 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -2689,6 +2689,18 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:price>7170 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-60131178</g:id>
+      <title>시니어 고스톱 큰화투 빅사이즈 대형 화투 색상랜덤</title>
+      <description>시니어 고스톱 큰화투 빅사이즈 대형 화투 색상랜덤</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-60131178.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6150/8798717771c4abeee22689dfbc1d1adcd51791b87d15f17b003fa5b1f5f5.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>22900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
