@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-61072575</g:id>
+      <title>쿠션 무릎보호대 2P 스포츠 다리 보호대 DD-12579</title>
+      <description>쿠션 무릎보호대 2P 스포츠 다리 보호대 DD-12579</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-61072575.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260714_68/1783990858513Sl1Kh_JPEG/7259321644861403_537970711.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6390 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-42217930</g:id>
       <title>캠핑웨건 접이식 폴딩카트 테이블</title>
       <description>캠핑웨건 접이식 폴딩카트 테이블</description>
@@ -3107,7 +3120,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>6740 KRW</g:price>
+      <g:price>7790 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -3381,6 +3394,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>53590 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64524846</g:id>
+      <title>미쟝센 스칼프케어 샴푸 680ML 아모레퍼시픽</title>
+      <description>미쟝센 스칼프케어 샴푸 680ML 아모레퍼시픽</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64524846.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e7d1/cf9948b818ddd29f5fd80bd28de2ec5e3fb175faee066c18e612691a8eb3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>10910 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
