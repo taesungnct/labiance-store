@@ -13,6 +13,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/naver-60126841.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taesungnct.github.io/labiance-store/products/naver-61006265.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
@@ -25,7 +31,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/coupang-66569793.html</loc>
+    <loc>https://taesungnct.github.io/labiance-store/products/naver-66569793.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -943,13 +949,19 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/coupang-66149235.html</loc>
+    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-66148154.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-66148154.html</loc>
+    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-66149235.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-62569693.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1130,6 +1142,12 @@
   </url>
   <url>
     <loc>https://taesungnct.github.io/labiance-store/products/coupang-57444313.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/coupang-66580888.html</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>

@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-60126841</g:id>
+      <title>절수형 투버튼식 필터 샤워헤드 정수샤워기</title>
+      <description>절수형 투버튼식 필터 샤워헤드 정수샤워기</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-60126841.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260716_233/1784143816680yiRMP_JPEG/13285646828374455_331011462.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>10750 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-61006265</g:id>
       <title>산리오 샤인 카드 지갑 키링 가방</title>
       <description>산리오 샤인 카드 지갑 키링 가방</description>
@@ -31,11 +44,11 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-66569793</g:id>
-      <title>V자 슬개골 무릎보호대 러닝보호대 등산보호대 남녀공용</title>
-      <description>V자 슬개골 무릎보호대 러닝보호대 등산보호대 남녀공용</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66569793.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0c13/2692109333bf739657fc31951a48f5e27fce7b99536efc89ed0c7506e004.jpg</g:image_link>
+      <g:id>naver-66569793</g:id>
+      <title>V자 슬개골 무릎보호대 러닝보호대 남녀공용</title>
+      <description>V자 슬개골 무릎보호대 러닝보호대 남녀공용</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66569793.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260715_286/1784097922747OOb8H_JPEG/7174866803978162_1694901887.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
@@ -2020,19 +2033,6 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-66149235</g:id>
-      <title>고급스러운 여권 지갑 지갑형 여권 케이스 여행용 커플 가죽 카드지갑 여권지갑</title>
-      <description>고급스러운 여권 지갑 지갑형 여권 케이스 여행용 커플 가죽 카드지갑 여권지갑</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66149235.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d9a9/91a75ee04ee55f4631764ed45613003355f0aaa93539f227d6a82cc7bc0e.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>11060 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-66148154</g:id>
       <title>네오프렌 손목 보호대 스트랩 운동 손목 보호대 헬스 스포츠 주방매트</title>
       <description>네오프렌 손목 보호대 스트랩 운동 손목 보호대 헬스 스포츠 주방매트</description>
@@ -2042,6 +2042,32 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>8570 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-66149235</g:id>
+      <title>고급스러운 여권 지갑 지갑형 여권 케이스 여행용 커플 가죽</title>
+      <description>고급스러운 여권 지갑 지갑형 여권 케이스 여행용 커플 가죽</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66149235.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260716_15/1784133924401eDAav_JPEG/30576242326571555_100011767.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>11060 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-62569693</g:id>
+      <title>삼정 주방용 자바라 L형 절수형 수도꼭지</title>
+      <description>삼정 주방용 자바라 L형 절수형 수도꼭지</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-62569693.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260716_128/1784150123185K8XsG_JPEG/13261902327977590_800068150.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>16310 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -2432,6 +2458,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>8230 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66580888</g:id>
+      <title>나비몰 세로형 단체명찰(20개) 출입증카드 행사명찰 투명명찰</title>
+      <description>나비몰 세로형 단체명찰(20개) 출입증카드 행사명찰 투명명찰</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66580888.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/397f/e8993d95555a7344334f9bfa62b53ebdaa632680ea225f43641f9bd17969.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24300 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
