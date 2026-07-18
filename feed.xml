@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66638336</g:id>
+      <title>마켓다인 원터치모기장 소형 텐트 아기침대모기장</title>
+      <description>마켓다인 원터치모기장 소형 텐트 아기침대모기장</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66638336.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260719_164/17843958165205jJpH_JPEG/13507595661121661_37861866.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26170 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65686529</g:id>
       <title>실내용 캠핑용 완전 밀폐 원터치 모기장 텐트형 벌레차단 메쉬망</title>
       <description>실내용 캠핑용 완전 밀폐 원터치 모기장 텐트형 벌레차단 메쉬망</description>
@@ -651,19 +664,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>7290 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-42217930</g:id>
-      <title>캠핑웨건 접이식 폴딩카트 테이블</title>
-      <description>캠핑웨건 접이식 폴딩카트 테이블</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-42217930.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260714_23/1783987319148aOJnX_JPEG/16302559276276908_821406999.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>56080 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
