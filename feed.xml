@@ -78,7 +78,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>375600 KRW</g:price>
+      <g:price>324980 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -1864,6 +1864,19 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
+      <g:id>11st-66628196</g:id>
+      <title>마켓다인 주방 단수 수전 가로 싱크대수전교체 자바라수전</title>
+      <description>마켓다인 주방 단수 수전 가로 싱크대수전교체 자바라수전</description>
+      <link>https://taesungnct.github.io/labiance-store/products/11st-66628196.html</link>
+      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/07/18/1784331185567A5495BC6E078181A23C/1784331185567A5495BC6E078181A23C_img_330?hash=080ef22ec3dc60a5262903123cc3fab2</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>28840 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>11st-66625045</g:id>
       <title>손목보호대 그레이 면 아크릴 신축성 탄력 땀 흡수 스포츠 손목아대</title>
       <description>손목보호대 그레이 면 아크릴 신축성 탄력 땀 흡수 스포츠 손목아대</description>
@@ -3368,6 +3381,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>28170 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64160527</g:id>
+      <title>3단 거꾸로 암막 우산 8K 접이식 수동 양우산 UV 차단 반전 양산</title>
+      <description>3단 거꾸로 암막 우산 8K 접이식 수동 양우산 UV 차단 반전 양산</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64160527.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f769/1fd8765beb80ddbee15da3be4c19a9463905ade7a9e222fec8a4792f6d0e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>12150 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
