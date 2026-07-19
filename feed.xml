@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66663485</g:id>
+      <title>엠다인A 싱크대 샤워기헤드 샤워해드</title>
+      <description>엠다인A 싱크대 샤워기헤드 샤워해드</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66663485.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260720_46/1784492145689pTEWH_JPEG/118624983707051367_737518928.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9560 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66662229</g:id>
       <title>서규몬 텐트형 원터치모기장 특대</title>
       <description>서규몬 텐트형 원터치모기장 특대</description>
@@ -3424,19 +3437,6 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66663485</g:id>
-      <title>엠다인A 싱크대 샤워기헤드 샤워해드</title>
-      <description>엠다인A 싱크대 샤워기헤드 샤워해드</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66663485.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260720_46/1784492145689pTEWH_JPEG/118624983707051367_737518928.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>9560 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-66665149</g:id>
       <title>엠다인A 생활 모기접근금지 모기장텐트 텐트</title>
       <description>엠다인A 생활 모기접근금지 모기장텐트 텐트</description>
@@ -3446,6 +3446,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>35900 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-66665316</g:id>
+      <title>싱크대 수도꼭지 헤드 멀티분사 절수 노즐 360도 회전 수전 교체용</title>
+      <description>싱크대 수도꼭지 헤드 멀티분사 절수 노즐 360도 회전 수전 교체용</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66665316.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260720_87/178449931807727vwc_JPEG/118632117215558458_986132454.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>10700 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
