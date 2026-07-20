@@ -13,6 +13,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/naver-66665916.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://taesungnct.github.io/labiance-store/products/naver-66604374.html</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
@@ -44,12 +50,6 @@
   </url>
   <url>
     <loc>https://taesungnct.github.io/labiance-store/products/naver-66662229.html</loc>
-    <lastmod>2026-07-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/naver-66643811.html</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -1219,7 +1219,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/11st-64453406.html</loc>
+    <loc>https://taesungnct.github.io/labiance-store/products/11st-66114318.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-64449604.html</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -2024,6 +2030,12 @@
   </url>
   <url>
     <loc>https://taesungnct.github.io/labiance-store/products/coupang-64066647.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/coupang-66643811.html</loc>
     <lastmod>2026-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
