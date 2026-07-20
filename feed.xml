@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66659639</g:id>
+      <title>서규몬 싱크대수전교체</title>
+      <description>서규몬 싱크대수전교체</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66659639.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260720_50/1784520049127lCNAk_JPEG/16491670817141208_660182809.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>18200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-64828731</g:id>
       <title>아이워너 전자식 체중계 KS-1090 핑크</title>
       <description>아이워너 전자식 체중계 KS-1090 핑크</description>
@@ -4291,6 +4304,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>16500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66243821</g:id>
+      <title>UV 자외선차단 3단 암막 휴대용 꽃 우산 양산 양우산</title>
+      <description>UV 자외선차단 3단 암막 휴대용 꽃 우산 양산 양우산</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66243821.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/33f7/c946a31a1687ab41d05efca390c2df583afe799200ce19f4dda6d0806257.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9790 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
