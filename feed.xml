@@ -3354,7 +3354,20 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>36400 KRW</g:price>
+      <g:price>42400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>11st-64660166</g:id>
+      <title>남성 샌들 캐주얼 휴양지 여름 남자 신발 슬리퍼</title>
+      <description>남성 샌들 캐주얼 휴양지 여름 남자 신발 슬리퍼</description>
+      <link>https://taesungnct.github.io/labiance-store/products/11st-64660166.html</link>
+      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/04/22/17768222662F11958A36BD682F43D500/17768222662F11958A36BD682F43D500_img_330?hash=0d046bda8d9a82237c814df81eca0d11</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -4607,6 +4620,19 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-65524837</g:id>
+      <title>슬리퍼 구멍 물놀이 여자 여성 샌들 실내 실외화 플라워 여름 신발</title>
+      <description>슬리퍼 구멍 물놀이 여자 여성 샌들 실내 실외화 플라워 여름 신발</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65524837.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260722_108/1784668569402fQR0I_JPEG/119401228306462277_1793593419.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>19300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66420367</g:id>
       <title>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</title>
       <description>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</description>
@@ -5617,6 +5643,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>14800 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66710222</g:id>
+      <title>2단 옷행거</title>
+      <description>2단 옷행거</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66710222.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/908a/c4d7d6ba2719c30c3b831fd56feae2b7dbd4f48222620b2e33f735e0cd03.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>61900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
