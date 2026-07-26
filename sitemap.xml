@@ -2545,12 +2545,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://taesungnct.github.io/labiance-store/products/11st-63290877.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://taesungnct.github.io/labiance-store/products/11st-64721066.html</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>daily</changefreq>
@@ -3506,6 +3500,12 @@
   </url>
   <url>
     <loc>https://taesungnct.github.io/labiance-store/products/lotteon-61763514.html</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://taesungnct.github.io/labiance-store/products/lotteon-59978384.html</loc>
     <lastmod>2026-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
