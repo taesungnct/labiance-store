@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64737173</g:id>
+      <title>주방휴지통 음식물 쓰레기통</title>
+      <description>주방휴지통 음식물 쓰레기통</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64737173.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260725_117/17849763174671nJgh_JPEG/35698454204053426_507814012.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-64763097</g:id>
       <title>수세미 3개입</title>
       <description>수세미 3개입</description>
@@ -715,7 +728,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8660 KRW</g:price>
+      <g:price>8990 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -9027,19 +9040,6 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-64737173</g:id>
-      <title>주방휴지통 음식물 쓰레기통 주방음식물통 음식수거통 주방쓰레기통</title>
-      <description>주방휴지통 음식물 쓰레기통 주방음식물통 음식수거통 주방쓰레기통</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64737173.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/72dd/1c69a9be1c862d3c6ad37e7789dd0d6463c055bc9528c6a7371e3dc086b4.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>25500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-66798004</g:id>
       <title>재고정리 LCD 고강도 강화유리 디지털 체중계</title>
       <description>재고정리 LCD 고강도 강화유리 디지털 체중계</description>
@@ -9231,6 +9231,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>20100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-15553604</g:id>
+      <title>리엔 닥터그루트 힘없는 모발용 탈모증상 집중케어 샴푸 330ml</title>
+      <description>리엔 닥터그루트 힘없는 모발용 탈모증상 집중케어 샴푸 330ml</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-15553604.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/169d/29de4e6a608b9eb15c23f6755cfd0720d325c0af5f867299be6d9535ee51.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
