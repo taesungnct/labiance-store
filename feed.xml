@@ -7826,7 +7826,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>26500 KRW</g:price>
+      <g:price>26400 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -7918,6 +7918,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>10100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-66851518</g:id>
+      <title>베이스볼 지갑</title>
+      <description>베이스볼 지갑</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66851518.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260728_46/1785172526203Bm5Sh_JPEG/13072519386908869_29930478.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>29400 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -9634,6 +9647,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>25500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66759021</g:id>
+      <title>여권지갑 보안케이스 핑크 여행용여권가방 여권카드지갑</title>
+      <description>여권지갑 보안케이스 핑크 여행용여권가방 여권카드지갑</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66759021.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5524/196acd303a7064c4f1977b7ee1d416178fe155297d9e80e6aa355bd15be9.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
