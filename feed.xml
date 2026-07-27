@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65842865</g:id>
+      <title>사다리 게임</title>
+      <description>사다리 게임</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65842865.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260727_226/17851374373406bN8c_JPEG/37851749458854776_23588457.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66838500</g:id>
       <title>루미나D 욕실선반 삼푸거치대 화장실 세면대 샤워 정리</title>
       <description>루미나D 욕실선반 삼푸거치대 화장실 세면대 샤워 정리</description>
@@ -7766,6 +7779,19 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66840216</g:id>
+      <title>루미나D 수전필터 주방 조리 식기 보관 싱크대</title>
+      <description>루미나D 수전필터 주방 조리 식기 보관 싱크대</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66840216.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260727_107/1785140145876WoREW_JPEG/119272953961237119_112114395.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>18700 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66420367</g:id>
       <title>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</title>
       <description>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</description>
@@ -9413,19 +9439,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>45600 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-65842865</g:id>
-      <title>사다리 게임 4인보드게임 가족게임 쉬운보드게임</title>
-      <description>사다리 게임 4인보드게임 가족게임 쉬운보드게임</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-65842865.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7276/68c562dfc5afbc280701b57f2e9d79c289b4c2a7c6110b0baf8e5f686a05.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>38500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
