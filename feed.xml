@@ -6292,7 +6292,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8840 KRW</g:price>
+      <g:price>8830 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -6565,7 +6565,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>29500 KRW</g:price>
+      <g:price>29400 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -6955,7 +6955,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>13000 KRW</g:price>
+      <g:price>12900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -7723,6 +7723,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>11200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-64833998</g:id>
+      <title>프릴 레몬향 1000ml 리필 베이킹소다 고농축 과일 야채 1종 주방세제</title>
+      <description>프릴 레몬향 1000ml 리필 베이킹소다 고농축 과일 야채 1종 주방세제</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64833998.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260727_199/17851293706619cQ3Y_JPEG/28353342814820733_1785925648.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>14900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -9348,6 +9361,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>50100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66823388</g:id>
+      <title>싱크 코브라수전 싱크대수전헤드 주방수전헤드</title>
+      <description>싱크 코브라수전 싱크대수전헤드 주방수전헤드</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66823388.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c1f2/88af03c674868c18ff9dbe31d176064d0b1956ba035f5347e3ed352fd12d.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>68700 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
