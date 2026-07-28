@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-60529475</g:id>
+      <title>스탠드원형 에어컨커버 덮개보관 무풍가리개</title>
+      <description>스탠드원형 에어컨커버 덮개보관 무풍가리개</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-60529475.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260728_250/1785214890711Lzu6S_JPEG/4498821858803422_1524915500.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>20500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66751909</g:id>
       <title>여행용 수하물 저울 50kg 휴대용 캐리어 무게측정기 핸드 디지털 체중계</title>
       <description>여행용 수하물 저울 50kg 휴대용 캐리어 무게측정기 핸드 디지털 체중계</description>
@@ -8515,7 +8528,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>11100 KRW</g:price>
+      <g:price>14800 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -9933,6 +9946,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>36000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65683626</g:id>
+      <title>선풍기 쿨조끼 냉각조끼 선풍기조끼</title>
+      <description>선풍기 쿨조끼 냉각조끼 선풍기조끼</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65683626.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f45b/5bb747210de6b49bb53b79050f058f68ce891cb9c25594ca7cf75440fcbb.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>65500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
