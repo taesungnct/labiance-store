@@ -6539,7 +6539,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>43900 KRW</g:price>
+      <g:price>32500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -7059,7 +7059,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>16000 KRW</g:price>
+      <g:price>15500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -8710,7 +8710,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>10000 KRW</g:price>
+      <g:price>10500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -9035,7 +9035,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>30000 KRW</g:price>
+      <g:price>28000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -10310,6 +10310,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>86000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64812278</g:id>
+      <title>파이프렌치 200MM 싱크대렌치 배관수리 배관홀더</title>
+      <description>파이프렌치 200MM 싱크대렌치 배관수리 배관홀더</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64812278.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fffc/375470fbd26a70b6d5a9dddab93c2c065462212ff1f736eaf19189a34931.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
