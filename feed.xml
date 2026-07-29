@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64825741</g:id>
+      <title>방한텐트 난방 싱글</title>
+      <description>방한텐트 난방 싱글</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64825741.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260729_178/1785312950060zLKQz_JPEG/32803516999071506_1552590061.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>188500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65038164</g:id>
       <title>휴대폰 벨트 힙색 가방 주머니 파우치</title>
       <description>휴대폰 벨트 힙색 가방 주머니 파우치</description>
@@ -6578,7 +6591,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8000 KRW</g:price>
+      <g:price>7900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -6799,7 +6812,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>97500 KRW</g:price>
+      <g:price>97000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -8594,19 +8607,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>18500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
-      <g:id>lotteon-64825741</g:id>
-      <title>방한텐트 난방 싱글</title>
-      <description>방한텐트 난방 싱글</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64825741.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260729_178/1785312950060zLKQz_JPEG/32803516999071506_1552590061.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>208500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
