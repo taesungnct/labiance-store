@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65149176</g:id>
+      <title>가벼운 휴대용 접이식 양면 PVC 매트 쿠션 방석 35x 30</title>
+      <description>가벼운 휴대용 접이식 양면 PVC 매트 쿠션 방석 35x 30</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65149176.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260730_147/1785387624594NIE4f_JPEG/119520432675294583_1072054456.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65755861</g:id>
       <title>단수칼라코브라 세로 블랙 씽크대수전</title>
       <description>단수칼라코브라 세로 블랙 씽크대수전</description>
@@ -6786,7 +6799,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>51600 KRW</g:price>
+      <g:price>42500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -8832,6 +8845,19 @@
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
     <item>
+      <g:id>coupang-64810203</g:id>
+      <title>포세이돈 원홀씽크 측면 국산수전 싱크대수전 씽크대수전</title>
+      <description>포세이돈 원홀씽크 측면 국산수전 싱크대수전 씽크대수전</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64810203.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0ec0/9b7b47fe1ade01692528cb93f47379d34c8e20a8884512d74d199d49270b.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>64500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-65602458</g:id>
       <title>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산</title>
       <description>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산</description>
@@ -10179,7 +10205,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8610 KRW</g:price>
+      <g:price>8600 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -10569,7 +10595,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>25500 KRW</g:price>
+      <g:price>24500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -10804,19 +10830,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>28000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Home &amp; Garden</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-64810203</g:id>
-      <title>포세이돈 원홀씽크 측면 국산수전 싱크대수전 씽크대수전</title>
-      <description>포세이돈 원홀씽크 측면 국산수전 싱크대수전 씽크대수전</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64810203.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0ec0/9b7b47fe1ade01692528cb93f47379d34c8e20a8884512d74d199d49270b.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>64500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
