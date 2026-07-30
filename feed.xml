@@ -5,6 +5,19 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66915122</g:id>
+      <title>책꽂이 수납책장</title>
+      <description>책꽂이 수납책장</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66915122.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260730_299/1785369630746MblCx_JPEG/32860197688437218_1524696862.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>17000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-64825741</g:id>
       <title>방한텐트 난방 싱글</title>
       <description>방한텐트 난방 싱글</description>
@@ -676,7 +689,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>160000 KRW</g:price>
+      <g:price>122000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -2613,7 +2626,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>215000 KRW</g:price>
+      <g:price>164000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -2704,7 +2717,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>10500 KRW</g:price>
+      <g:price>11500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -2782,7 +2795,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>9700 KRW</g:price>
+      <g:price>12000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
@@ -10830,6 +10843,19 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>21500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>Home &amp; Garden</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64863239</g:id>
+      <title>욕실 일자선반 알루미늄 샤워실 샴푸 거치대 정리대 수납 화장실 코너 벽</title>
+      <description>욕실 일자선반 알루미늄 샤워실 샴푸 거치대 정리대 수납 화장실 코너 벽</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64863239.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f8cc/ace92da8ce723646cbfc20d13aac454d51ca3b3309481c11a77df2b1dee8.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>49000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>Home &amp; Garden</g:google_product_category>
     </item>
