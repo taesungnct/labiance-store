@@ -7937,7 +7937,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>95000 KRW</g:price>
+      <g:price>94500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -10332,6 +10332,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>14500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-66951504</g:id>
+      <title>핸드폰 감옥 스마트폰 보관함 상자 잠금장치 알림 타이머 휴대폰 거치대 공부 모임 집중</title>
+      <description>핸드폰 감옥 스마트폰 보관함 상자 잠금장치 알림 타이머 휴대폰 거치대 공부 모임 집중 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66951504.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260801_10/17855182103065o8ji_JPEG/21295457418143988_136515227.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>14000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -12813,6 +12827,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-63079683</g:id>
+      <title>캠핑 에어매트 매트리스 자충매트 공기 자충침대 텐트베드 휴대용 피크닉 차박</title>
+      <description>캠핑 에어매트 매트리스 자충매트 공기 자충침대 텐트베드 휴대용 피크닉 차박 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-63079683.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/608c/20f8771a4790ebdaecd633c04d66f7df13001d97c1fc7f77702a14a7e9b6.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>147000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
