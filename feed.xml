@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65941540</g:id>
+      <title>가로꼭지 자바라 주방용 씽크대수전 절수형 코브라</title>
+      <description>가로꼭지 자바라 주방용 씽크대수전 절수형 코브라 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65941540.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260731_285/1785471327585scu1d_JPEG/21248574700559737_1963026942.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-59577178</g:id>
       <title>가족용 침대용 캠핑 방충망 텐트 원터치 7 8인용 모기장 대형</title>
       <description>가족용 침대용 캠핑 방충망 텐트 원터치 7 8인용 모기장 대형 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -8035,7 +8049,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>26500 KRW</g:price>
+      <g:price>25500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -10071,15 +10085,15 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-65941540</g:id>
-      <title>가로꼭지 자바라 주방용 씽크대수전 절수형 코브라</title>
-      <description>가로꼭지 자바라 주방용 씽크대수전 절수형 코브라 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65941540.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260731_285/1785471327585scu1d_JPEG/21248574700559737_1963026942.jpg</g:image_link>
+      <g:id>lotteon-66477633</g:id>
+      <title>싱크대 매립형 세제 디스펜서 플라스틱용기</title>
+      <description>싱크대 매립형 세제 디스펜서 플라스틱용기 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66477633.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260731_80/1785475030600qtchN_JPEG/15813391129615056_2072371322.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>25500 KRW</g:price>
+      <g:price>10000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -12519,6 +12533,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66474713</g:id>
+      <title>초경량 디지털 체중계 몸무게저울 체중계저울</title>
+      <description>초경량 디지털 체중계 몸무게저울 체중계저울 / 카테고리: 건강용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66474713.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f93c/6493d867845e4a17572ca62c6b584f7ad0052fcf26b6c94f6e291ee4e3c4.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>12000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
   </channel>
 </rss>
