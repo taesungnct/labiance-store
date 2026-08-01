@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64855576</g:id>
+      <title>고급패션각반 농구발목보호대</title>
+      <description>고급패션각반 농구발목보호대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64855576.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260722_157/1784658668527KudxC_JPEG/16630290219112050_1578221672.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8600 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>lotteon-66628893</g:id>
       <title>데스크테리어 컴퓨터정리대 수납선반 공간활용</title>
       <description>데스크테리어 컴퓨터정리대 수납선반 공간활용 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -5095,7 +5109,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>327500 KRW</g:price>
+      <g:price>243500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -5141,20 +5155,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
-    </item>
-    <item>
-      <g:id>11st-64855576</g:id>
-      <title>고급패션각반 농구발목보호대 발목인대보호대 스포츠발목보호대</title>
-      <description>고급패션각반 농구발목보호대 발목인대보호대 스포츠발목보호대 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/11st-64855576.html</link>
-      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/05/04/1777834452CA541D214754077C9D6814/1777834452CA541D214754077C9D6814_img_330?hash=41be1ba757acc8b84848183508fe621b</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>9100 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>11st-62214985</g:id>
@@ -7419,7 +7419,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>9100 KRW</g:price>
+      <g:price>6700 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -7713,7 +7713,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8700 KRW</g:price>
+      <g:price>6500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -7979,7 +7979,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>12000 KRW</g:price>
+      <g:price>9200 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -8021,7 +8021,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>51500 KRW</g:price>
+      <g:price>38500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -8371,7 +8371,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>9060 KRW</g:price>
+      <g:price>6700 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -8511,7 +8511,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>16800 KRW</g:price>
+      <g:price>12500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -8567,7 +8567,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>189000 KRW</g:price>
+      <g:price>141000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -8805,7 +8805,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>45500 KRW</g:price>
+      <g:price>33500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -8867,15 +8867,15 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66761044</g:id>
-      <title>십자가로 수도꼭지 주방수전</title>
-      <description>십자가로 수도꼭지 주방수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66761044.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260724_165/17848233178469B5X3_JPEG/118956165646048005_475803516.jpg</g:image_link>
+      <g:id>coupang-66643238</g:id>
+      <title>십자가로 수도꼭지 수도꼭지교체 온수수도꼭지 냉수수도꼭지</title>
+      <description>십자가로 수도꼭지 수도꼭지교체 온수수도꼭지 냉수수도꼭지 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66643238.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/ee8f/ca5e362606ed021bc566fc808eb5fdf6b64fa88fe1c7979ab37a8cfc182d.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>17000 KRW</g:price>
+      <g:price>12500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -9183,7 +9183,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>11700 KRW</g:price>
+      <g:price>8700 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -9253,7 +9253,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>13000 KRW</g:price>
+      <g:price>10000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -9379,7 +9379,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>46500 KRW</g:price>
+      <g:price>34500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
@@ -9477,7 +9477,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>307000 KRW</g:price>
+      <g:price>228500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -9729,7 +9729,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>14400 KRW</g:price>
+      <g:price>10500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -10093,7 +10093,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>10500 KRW</g:price>
+      <g:price>8000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -10415,7 +10415,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>14500 KRW</g:price>
+      <g:price>10500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -10569,7 +10569,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>14000 KRW</g:price>
+      <g:price>10500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -10779,7 +10779,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8700 KRW</g:price>
+      <g:price>6500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -10800,14 +10800,14 @@
     </item>
     <item>
       <g:id>coupang-63079683</g:id>
-      <title>캠핑 에어매트 공기 자충침대 텐트베드 휴대용 피크닉 차박</title>
-      <description>캠핑 에어매트 공기 자충침대 텐트베드 휴대용 피크닉 차박 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>캠핑 에어매트 매트리스 자충매트 공기 자충침대 텐트베드 휴대용 피크닉 차박</title>
+      <description>캠핑 에어매트 매트리스 자충매트 공기 자충침대 텐트베드 휴대용 피크닉 차박 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-63079683.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/608c/20f8771a4790ebdaecd633c04d66f7df13001d97c1fc7f77702a14a7e9b6.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>147000 KRW</g:price>
+      <g:price>109500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -10821,7 +10821,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>45600 KRW</g:price>
+      <g:price>34000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty &gt; Personal Care</g:google_product_category>
@@ -10891,7 +10891,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>51700 KRW</g:price>
+      <g:price>38500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -11423,7 +11423,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>14000 KRW</g:price>
+      <g:price>10000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -11451,7 +11451,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>38300 KRW</g:price>
+      <g:price>28500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -11521,7 +11521,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>33700 KRW</g:price>
+      <g:price>25000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -11633,7 +11633,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>65000 KRW</g:price>
+      <g:price>48500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -11892,14 +11892,14 @@
     </item>
     <item>
       <g:id>coupang-66691621</g:id>
-      <title>원홀 세면기 수도 수전교체</title>
-      <description>원홀 세면기 수도 수전교체 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>원홀 세면기 수도 수전교체 화장실수도꼭지 세면대수전교체</title>
+      <description>원홀 세면기 수도 수전교체 화장실수도꼭지 세면대수전교체 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66691621.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c704/fe196121218965a68d29a216460c75f872710bc1bb6c76b12acabab3f2ab.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>132000 KRW</g:price>
+      <g:price>99000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -12123,7 +12123,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8600 KRW</g:price>
+      <g:price>6400 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -12165,7 +12165,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>72800 KRW</g:price>
+      <g:price>54000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
@@ -12221,7 +12221,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>19000 KRW</g:price>
+      <g:price>14000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
@@ -12403,7 +12403,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>9960 KRW</g:price>
+      <g:price>7400 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
@@ -12543,7 +12543,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>25500 KRW</g:price>
+      <g:price>19000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -12655,7 +12655,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>16000 KRW</g:price>
+      <g:price>12000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -12690,14 +12690,14 @@
     </item>
     <item>
       <g:id>coupang-66887617</g:id>
-      <title>와이드 3단 양념통정리대 수납트레이</title>
-      <description>와이드 3단 양념통정리대 수납트레이 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>와이드 3단 양념통정리대 수납트레이 양념통정리</title>
+      <description>와이드 3단 양념통정리대 수납트레이 양념통정리 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66887617.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/4b97/26f18770bbd7f11b81b3ab6618a9f67ead58de4a0e1812ffe32e9e89ec23.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>48000 KRW</g:price>
+      <g:price>36000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -12858,14 +12858,14 @@
     </item>
     <item>
       <g:id>coupang-66911455</g:id>
-      <title>자바라 수전</title>
-      <description>자바라 수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>자바라 수전 싱크수전 스텐수전</title>
+      <description>자바라 수전 싱크수전 스텐수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66911455.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6c63/cf86a1467b1a8cc36f6c25fd6f3f141e5d278aa8dc623c6a375986d44238.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>21500 KRW</g:price>
+      <g:price>16000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -12914,14 +12914,14 @@
     </item>
     <item>
       <g:id>coupang-64837574</g:id>
-      <title>천장 선풍기 LED 방등 유백색</title>
-      <description>천장 선풍기 LED 방등 유백색 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>천장 선풍기 LED 방등 유백색 천장형선풍기 천정형선풍기 천장팬</title>
+      <description>천장 선풍기 LED 방등 유백색 천장형선풍기 천정형선풍기 천장팬 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-64837574.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2e45/d342c505b461137a7da2360d40c5d4a43fd077cc2e2da4325a1c68ee9081.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>477000 KRW</g:price>
+      <g:price>356500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -13096,14 +13096,14 @@
     </item>
     <item>
       <g:id>coupang-66707472</g:id>
-      <title>빅팬 선풍기조끼 KC인증 현장 작업용 냉풍 건설 낚시 쿨웨어</title>
-      <description>빅팬 선풍기조끼 KC인증 현장 작업용 냉풍 건설 낚시 쿨웨어 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>빅팬 선풍기조끼 KC인증 현장 작업용 냉풍 조끼 건설 낚시 쿨웨어</title>
+      <description>빅팬 선풍기조끼 KC인증 현장 작업용 냉풍 조끼 건설 낚시 쿨웨어 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66707472.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/56da/51a8bdf5eab199ac9bc4ccfaad666f8a690e411b9995061a292098718883.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>80000 KRW</g:price>
+      <g:price>59500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
