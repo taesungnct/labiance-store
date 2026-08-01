@@ -7825,7 +7825,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>25400 KRW</g:price>
+      <g:price>31000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -8021,7 +8021,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>64500 KRW</g:price>
+      <g:price>86500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -8329,7 +8329,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>14000 KRW</g:price>
+      <g:price>19000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -8371,7 +8371,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>15500 KRW</g:price>
+      <g:price>21000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -9435,7 +9435,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>16200 KRW</g:price>
+      <g:price>21500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -9987,6 +9987,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-64836976</g:id>
+      <title>포세이돈1 주방코브라 6개</title>
+      <description>포세이돈1 주방코브라 6개 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64836976.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260730_253/1785395812044MDmq0_JPEG/15734172574994221_1852055093.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>305500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>lotteon-61243590</g:id>
       <title>요기네 조리도구 받침대 주방정리소품 거치대 냄비 뚜껑</title>
       <description>요기네 조리도구 받침대 주방정리소품 거치대 냄비 뚜껑 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10365,20 +10379,6 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-64836976</g:id>
-      <title>포세이돈1 주방코브라 6개</title>
-      <description>포세이돈1 주방코브라 6개 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64836976.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260730_253/1785395812044MDmq0_JPEG/15734172574994221_1852055093.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>305500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-66604119</g:id>
       <title>냉장고매트세트 다용도깔개</title>
       <description>냉장고매트세트 다용도깔개 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10391,6 +10391,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-66657130</g:id>
+      <title>컴퓨터 모니터 받침대 50cm 노트북 거치대 스탠드 사무실 책상 정리 선반</title>
+      <description>컴퓨터 모니터 받침대 50cm 노트북 거치대 스탠드 사무실 책상 정리 선반 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66657130.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260801_97/1785557767891btzMt_JPEG/119690575966354095_1559654231.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66420367</g:id>
@@ -12787,6 +12801,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>coupang-61837164</g:id>
+      <title>스포츠 헬스 X자 슬림 발목 압박 보호대 밴드 아대</title>
+      <description>스포츠 헬스 X자 슬림 발목 압박 보호대 밴드 아대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-61837164.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7d8d/54593e3d30f777ebfb99e22c0d5d94d376680aaf2987a04d0c54bbbb1b98.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>21000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66910984</g:id>
       <title>싱크 폭포수전 씽크대수전 원홀폭포수전</title>
       <description>싱크 폭포수전 씽크대수전 원홀폭포수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -12955,18 +12983,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-61837164</g:id>
-      <title>스포츠 헬스 X자 슬림 발목 압박 보호대 밴드 아대</title>
-      <description>스포츠 헬스 X자 슬림 발목 압박 보호대 밴드 아대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-61837164.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7d8d/54593e3d30f777ebfb99e22c0d5d94d376680aaf2987a04d0c54bbbb1b98.jpg</g:image_link>
+      <g:id>coupang-57463851</g:id>
+      <title>주방 공간 활용 컵걸이 수납도구 다용도 걸이</title>
+      <description>주방 공간 활용 컵걸이 수납도구 다용도 걸이 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-57463851.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/07da/d949c2e1da67a3b979472becf514efa131ce2e3c5468bdb1506039730694.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>21000 KRW</g:price>
+      <g:price>13000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
