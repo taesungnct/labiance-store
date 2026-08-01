@@ -8385,7 +8385,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>9480 KRW</g:price>
+      <g:price>12500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -9729,7 +9729,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>20500 KRW</g:price>
+      <g:price>27500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -10379,6 +10379,20 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66609533</g:id>
+      <title>다용도 카드지갑</title>
+      <description>다용도 카드지갑 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66609533.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260801_274/1785550642581Oyc08_JPEG/119683450660576462_1899184180.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>15000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66420367</g:id>
       <title>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</title>
       <description>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10639,7 +10653,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>58700 KRW</g:price>
+      <g:price>58500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
@@ -10905,7 +10919,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>74000 KRW</g:price>
+      <g:price>89500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
