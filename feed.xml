@@ -5,6 +5,20 @@
     <link>https://laviance.net/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64177477</g:id>
+      <title>1초설치 접이식 모기장 1 2인용 아기 침대용 사각 방충망 캐노피</title>
+      <description>1초설치 접이식 모기장 1 2인용 아기 침대용 사각 방충망 캐노피 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://laviance.net/products/naver-64177477.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260729_211/1785276149813wYRyO_JPEG/119408947951793642_1633313421.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>20500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66993390</g:id>
       <title>파이프클램프 116 15A-21.3mm 실버 배관조립</title>
       <description>파이프클램프 116 15A-21.3mm 실버 배관조립 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -1120,20 +1134,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>20000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-64177477</g:id>
-      <title>1초설치 접이식 모기장 1 2인용 아기 침대용 사각 방충망 캐노피</title>
-      <description>1초설치 접이식 모기장 1 2인용 아기 침대용 사각 방충망 캐노피 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://laviance.net/products/naver-64177477.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260729_211/1785276149813wYRyO_JPEG/119408947951793642_1633313421.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>20500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
@@ -13723,6 +13723,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66379782</g:id>
+      <title>수도확장 연결밸브1구2구 수전교체 수도배관밸브 싱크대수도밸브</title>
+      <description>수도확장 연결밸브1구2구 수전교체 수도배관밸브 싱크대수도밸브 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://laviance.net/products/coupang-66379782.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e23d/0ea8f67191774cba84d764d54f64a564a482e2cdb0b4a3463815d68aa133.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
