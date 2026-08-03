@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66976155</g:id>
+      <title>매직크린 자동수전 HTM-703</title>
+      <description>매직크린 자동수전 HTM-703 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66976155.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260803_44/17857476601358PnzT_JPEG/45791827298560696_1546817388.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>149500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-64655282</g:id>
       <title>원터치 사각 모기장 침대 여름 방충망 바닥 있는 대형 랍슨유통</title>
       <description>원터치 사각 모기장 침대 여름 방충망 바닥 있는 대형 랍슨유통 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10631,6 +10645,20 @@
       <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-64193596</g:id>
+      <title>거품 잘나는 그물망사수세미 핑크 5P 주방 식기세척 청소용품</title>
+      <description>거품 잘나는 그물망사수세미 핑크 5P 주방 식기세척 청소용품 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64193596.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260803_181/1785748567448F22j4_JPEG/38462879564963125_1599326633.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66420367</g:id>
       <title>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</title>
       <description>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -13429,6 +13457,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64868501</g:id>
+      <title>캠핑 에어베드 에어쇼파 차박준비물</title>
+      <description>캠핑 에어베드 에어쇼파 차박준비물 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64868501.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0945/ca4edf84d29c4ebcff7c6e925f6340d6ec6d3887e56738ec3ff1701c5d0c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
     </item>
   </channel>
 </rss>
