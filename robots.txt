@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taesungnct.github.io/labiance-store/sitemap.xml
+Sitemap: https://laviance.net/sitemap.xml
