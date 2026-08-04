@@ -9890,8 +9890,8 @@
     </item>
     <item>
       <g:id>lotteon-66824666</g:id>
-      <title>나비몰 싱크대 물막이 물가림막 다용도물튐방지가드</title>
-      <description>나비몰 싱크대 물막이 물가림막 다용도물튐방지가드 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>나비쌤 싱크대 물막이 주방물튀김방지</title>
+      <description>나비쌤 싱크대 물막이 주방물튀김방지 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-66824666.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260728_253/1785169039163oEESL_JPEG/45213206323104958_398473300.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -14157,6 +14157,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67020964</g:id>
+      <title>체지방 체중계 전자체중계 체중저울 체지방측정</title>
+      <description>체지방 체중계 전자체중계 체중저울 체지방측정 / 카테고리: 건강용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67020964.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5252/b963a36c15ec9bf4489b248a05cd51660ba8503e94863e0d3bac84d8445d.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>57000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
   </channel>
 </rss>
