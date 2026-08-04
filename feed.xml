@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64868501</g:id>
+      <title>캠핑 에어베드 차박준비물</title>
+      <description>캠핑 에어베드 차박준비물 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64868501.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260803_255/1785750334412ilWKQ_JPEG/7866918727735897_1000723302.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66983083</g:id>
       <title>손목보호대 아대 배드민턴 헬스 테니스 얇은 스트랩 밴드</title>
       <description>손목보호대 아대 배드민턴 헬스 테니스 얇은 스트랩 밴드 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -1133,7 +1147,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>16500 KRW</g:price>
+      <g:price>20000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
@@ -1694,6 +1708,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>122000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
+      <g:id>naver-65842865</g:id>
+      <title>사다리 게임</title>
+      <description>사다리 게임 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65842865.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260727_226/17851374373406bN8c_JPEG/37851749458854776_23588457.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>27000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
@@ -9959,34 +9987,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66871716</g:id>
-      <title>나비몰 무릎 보호대</title>
-      <description>나비몰 무릎 보호대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66871716.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260729_214/1785258928516RDs9d_JPEG/2289977917533833_1055546833.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>13500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>lotteon-66871348</g:id>
-      <title>나비몰 무릎밴드</title>
-      <description>나비몰 무릎밴드 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66871348.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260729_175/1785262520990GlyRV_JPEG/119395329073290408_1289425580.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>20500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-66885642</g:id>
       <title>윈도우 파스텔 커버 옷장가리개 행거먼지덮개</title>
       <description>윈도우 파스텔 커버 옷장가리개 행거먼지덮개 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10927,7 +10927,7 @@
     <item>
       <g:id>lotteon-63422207</g:id>
       <title>모니터 받침대 투명 거치대 선반 노트북 40cm</title>
-      <description>모니터 받침대 투명 거치대 선반 노트북 40cm / 카테고리: 기타 / 라비앙스에서 판매하는 상품입니다.</description>
+      <description>모니터 받침대 투명 거치대 선반 노트북 40cm / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-63422207.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260803_243/1785759464818rzjSl_JPEG/7876049126076098_1291179899.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -10936,7 +10936,7 @@
       <g:price>22500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
       <g:id>lotteon-66979268</g:id>
@@ -11077,6 +11077,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-65761691</g:id>
+      <title>스토어 연 양우산 접이식 경량 튼튼한양산</title>
+      <description>스토어 연 양우산 접이식 경량 튼튼한양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65761691.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260804_114/1785824170860hG1Yl_JPEG/71688953279056_1164364631.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66420367</g:id>
@@ -11679,20 +11693,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-66616478</g:id>
-      <title>수전 탭 세면대 연장 회전 수도꼭지 관절</title>
-      <description>수전 탭 세면대 연장 회전 수도꼭지 관절 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66616478.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/993d/d18f883f46aa86a5a6caf6e49acdece64a6b0437adb982cd83c5ba8dd648.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>12500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66627582</g:id>
@@ -13879,20 +13879,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-64868501</g:id>
-      <title>캠핑 에어베드 에어쇼파 차박준비물</title>
-      <description>캠핑 에어베드 에어쇼파 차박준비물 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64868501.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0945/ca4edf84d29c4ebcff7c6e925f6340d6ec6d3887e56738ec3ff1701c5d0c.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>26500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-64888841</g:id>
       <title>대왕 치즈 말랑이 점보 말랑이 타바 스퀴시 마시멜로우 슬라임 스트레스볼</title>
       <description>대왕 치즈 말랑이 점보 말랑이 타바 스퀴시 마시멜로우 슬라임 스트레스볼 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -13989,6 +13975,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64688506</g:id>
+      <title>10종 1개 여성 꽃무늬 양우산 우양산 접이식 양산 우산 암막양산 자외선차단 여성</title>
+      <description>10종 1개 여성 꽃무늬 양우산 우양산 접이식 양산 우산 암막양산 자외선차단 여성 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64688506.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c8df/74b3c45b1cb462d23dbb625333a1f8b210425984c4a8b4783712b4b601d1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
