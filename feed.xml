@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65880450</g:id>
+      <title>적층 슬라이딩 리빙박스</title>
+      <description>적층 슬라이딩 리빙박스 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65880450.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260805_81/17859168932122cE7k_JPEG/122014081187690856_969629628.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67018164</g:id>
       <title>주방 코브라 싱크대수전 1형</title>
       <description>주방 코브라 싱크대수전 1형 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -11483,6 +11497,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-65874101</g:id>
+      <title>시스맥스 마이 미니 앙코르박스 책상서랍장</title>
+      <description>시스맥스 마이 미니 앙코르박스 책상서랍장 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65874101.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260805_252/17859177791155prmL_JPEG/1095823165966006_769373325.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66420367</g:id>
