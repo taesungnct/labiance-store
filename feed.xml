@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67018164</g:id>
+      <title>주방 코브라 싱크대수전 1형</title>
+      <description>주방 코브라 싱크대수전 1형 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67018164.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260805_13/178591326083820zB4_JPEG/133060754890964346_1666949869.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>43500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66477511</g:id>
       <title>여권 케이스</title>
       <description>여권 케이스 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -11457,6 +11471,20 @@
       <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66664343</g:id>
+      <title>물빠짐 수세미 거치대 싱크대세제선</title>
+      <description>물빠짐 수세미 거치대 싱크대세제선 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66664343.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260805_204/178591423415935Xag_JPEG/48377693306744858_876315407.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>16500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-66420367</g:id>
       <title>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형</title>
       <description>무선 블루투스 스피커 미러 LED 시계 알람 타이머 백색소음 데스크탑형 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14395,6 +14423,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67021523</g:id>
+      <title>컬러 모래시계 생활과학교실 인테리어시계 떨어지는모래</title>
+      <description>컬러 모래시계 생활과학교실 인테리어시계 떨어지는모래 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67021523.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/797a/8178009421d0f5ec34ccf54b128320666de3f6ca7799b17dd4ba79e516a1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
