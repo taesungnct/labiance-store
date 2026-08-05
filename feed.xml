@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64909540</g:id>
+      <title>명함케이스 카드홀더</title>
+      <description>명함케이스 카드홀더 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64909540.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260806_262/1785952884885mB0Fy_JPEG/65528248756242926_541877364.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6800 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65271508</g:id>
       <title>무소음 LED 벽 시계</title>
       <description>무소음 LED 벽 시계 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14703,6 +14717,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65131575</g:id>
+      <title>자동차선풍기 의자선풍기 운전석선풍기 쿨팬 에어쿨러 차량용 등땀걱정끝 등송풍기</title>
+      <description>자동차선풍기 의자선풍기 운전석선풍기 쿨팬 에어쿨러 차량용 등땀걱정끝 등송풍기 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65131575.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/16ca/445fc2ad800237a002e36b42d038586a48f73783e12f435a65e986c35c9e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>12500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
