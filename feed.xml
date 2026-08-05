@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-15443462</g:id>
+      <title>UV우양산 자동우산 초경량 가벼운 자외선차단</title>
+      <description>UV우양산 자동우산 초경량 가벼운 자외선차단 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-15443462.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260805_230/1785906108059NDHBQ_JPEG/153626152782977_1525178418.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65828127</g:id>
       <title>월렛 지갑 파우치</title>
       <description>월렛 지갑 파우치 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14339,6 +14353,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67028926</g:id>
+      <title>곰돌이 휴대용 매트</title>
+      <description>곰돌이 휴대용 매트 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67028926.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/af80/86512d6e8c824119f6a6342ad7be6fc5cb3f699a408b7b072e63a1fd02a2.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6700 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
