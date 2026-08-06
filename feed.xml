@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65291259</g:id>
+      <title>초대형 은박돗자리 야외용 이너매트 텐트그라운드시트 등산용품</title>
+      <description>초대형 은박돗자리 야외용 이너매트 텐트그라운드시트 등산용품 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65291259.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260806_128/1785988835799LdiY1_JPEG/62450746952200369_413617023.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66768977</g:id>
       <title>루미나D 튜브 6p dd-10249 작업 수리 교체 조립 공구부품</title>
       <description>루미나D 튜브 6p dd-10249 작업 수리 교체 조립 공구부품 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14761,20 +14775,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-64945811</g:id>
-      <title>방수 방습 캠핑 돗자리 은박돗자리 은박매트 대형돗자리</title>
-      <description>방수 방습 캠핑 돗자리 은박돗자리 은박매트 대형돗자리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64945811.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/17ee/f95ceac7da377e761973ddc714f5e0b17f2c853c7e9f1b8fc5d08b7dea6b.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>6900 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-67028926</g:id>
       <title>곰돌이 휴대용 매트</title>
       <description>곰돌이 휴대용 매트 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14913,6 +14913,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65468542</g:id>
+      <title>잘나가는 모기장 모음2 접이식방충망 창문모기장</title>
+      <description>잘나가는 모기장 모음2 접이식방충망 창문모기장 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65468542.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0f3f/c6af98e5d8b08c96601d4454aa46cac9591ae958595e8a66d7605476c936.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>32500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
