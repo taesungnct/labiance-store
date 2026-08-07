@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67104254</g:id>
+      <title>사우나 욕실 화장실 3분 모래시계 3color</title>
+      <description>사우나 욕실 화장실 3분 모래시계 3color / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67104254.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260808_114/1786132837319jPvG7_JPEG/19836623302447850_724304079.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67109753</g:id>
       <title>주방 쿠킹 조리용 타이머 시나모롤 1P 오븐 제빵용 알람 시계</title>
       <description>주방 쿠킹 조리용 타이머 시나모롤 1P 오븐 제빵용 알람 시계 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15795,6 +15809,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67097983</g:id>
+      <title>세면대앵글밸브 수전부품 배관부속</title>
+      <description>세면대앵글밸브 수전부품 배관부속 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67097983.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/289b/606a9b69e2d08ad2ecc34793b368fde83094288e1a0fe1302d05b1e20955.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7900 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
