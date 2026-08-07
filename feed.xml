@@ -8973,7 +8973,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>32000 KRW</g:price>
+      <g:price>37000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -15599,6 +15599,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-22886951</g:id>
+      <title>접이식 대형 사각 침대모기장 135 x 195</title>
+      <description>접이식 대형 사각 침대모기장 135 x 195 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-22886951.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fae5/091f2a234f098a699fc5a544d7ecc6df8cc13180d0b6ee88b4cb98b48e68.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>12500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
