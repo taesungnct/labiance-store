@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67112622</g:id>
+      <title>타이머 기계식 콘센트 타임스위치</title>
+      <description>타이머 기계식 콘센트 타임스위치 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67112622.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260808_74/1786183242682CQoTj_JPEG/48646701828661470_1244941338.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>34000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-44244534</g:id>
       <title>런칭 우드핸들 장우산 16K 방풍 나무손잡이 복고풍 양산</title>
       <description>런칭 우드핸들 장우산 16K 방풍 나무손잡이 복고풍 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -12717,6 +12731,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67117283</g:id>
+      <title>주방세제 리필 설거지 채소 과일 1종세척제 무향 1L 대용량 클리너</title>
+      <description>주방세제 리필 설거지 채소 과일 1종세척제 무향 1L 대용량 클리너 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67117283.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260808_136/1786184131175kThVV_JPEG/122281319151197258_880920277.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16131,6 +16159,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66192115</g:id>
+      <title>인생 바지 모음 선풍기바지 트랙팬츠</title>
+      <description>인생 바지 모음 선풍기바지 트랙팬츠 / 카테고리: 의류/언더웨어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66192115.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7b08/718a1938d864e49e8b4ccffe3a73d44b651e2a9ba7798dd79f53a6353c00.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
     </item>
   </channel>
 </rss>
