@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67115281</g:id>
+      <title>주방세제 액체 설거지 과일 야채 세척제 용기 1kg 말통 세정제</title>
+      <description>주방세제 액체 설거지 과일 야채 세척제 용기 1kg 말통 세정제 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67115281.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260809_178/1786219248554NIHtv_JPEG/6212806595364594_287517360.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7600 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66105929</g:id>
       <title>에어매트 커버 싱글 더블 캠핑 보호덮개</title>
       <description>에어매트 커버 싱글 더블 캠핑 보호덮개 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16103,6 +16117,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67130484</g:id>
+      <title>장식 꾸미기 인형 쫀득스퀴시 미니치즈슬랑이 스트레스해소</title>
+      <description>장식 꾸미기 인형 쫀득스퀴시 미니치즈슬랑이 스트레스해소 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67130484.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f8bf/dacf2dc954dced57437c2bdf075a131f8ecd1e44f9bf36108b6b603d7e8e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
     </item>
   </channel>
 </rss>
