@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67115461</g:id>
+      <title>주방세제 리필 설거지 과일 세정제 우리밀 1.2L 청소 세트</title>
+      <description>주방세제 리필 설거지 과일 세정제 우리밀 1.2L 청소 세트 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67115461.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260808_99/1786172437341gkjH7_JPEG/5195380506588625_1282699668.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67119083</g:id>
       <title>수도밸브 10p 세면대부품</title>
       <description>수도밸브 10p 세면대부품 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16033,6 +16047,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66821588</g:id>
+      <title>장기알 장기알세트 어린이보드게임 고급장기알</title>
+      <description>장기알 장기알세트 어린이보드게임 고급장기알 / 카테고리: 취미/도서 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66821588.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/ab98/95f92f1120773bb11da060650c33af370fdae3ff73b981d2468afbc5cd5e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>14500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
     </item>
   </channel>
 </rss>
