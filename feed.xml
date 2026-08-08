@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66145863</g:id>
+      <title>원터치 접이식 모기장 베드쉴드 아기방충망</title>
+      <description>원터치 접이식 모기장 베드쉴드 아기방충망 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66145863.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260806_64/1786017636256uYqET_JPEG/35356062439323608_1671522461.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>18500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67129528</g:id>
       <title>베란다 화분걸이 가로형</title>
       <description>베란다 화분걸이 가로형 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -437,20 +451,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-65478957</g:id>
-      <title>원터치 접이식 모기장 아기방충망</title>
-      <description>원터치 접이식 모기장 아기방충망 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-65478957.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260806_64/1786017636256uYqET_JPEG/35356062439323608_1671522461.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>19000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
     <item>
       <g:id>naver-67057155</g:id>
@@ -8910,8 +8910,8 @@
     </item>
     <item>
       <g:id>lotteon-66546171</g:id>
-      <title>나비몰 접이식 장바구니 폴딩카트 구르마</title>
-      <description>나비몰 접이식 장바구니 폴딩카트 구르마 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>접이식 장바구니 손수레 구르마</title>
+      <description>접이식 장바구니 손수레 구르마 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-66546171.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260714_180/1783995319477wTymP_JPEG/5916329469057081_801551177.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -8949,6 +8949,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-65497188</g:id>
+      <title>아쿠아슈즈 남성샌들 여름 계곡 여성용 물놀이용품</title>
+      <description>아쿠아슈즈 남성샌들 여름 계곡 여성용 물놀이용품 / 카테고리: 기타 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65497188.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260714_50/1784038528004Nfaor_JPEG/13150307141176548_1518862257.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>lotteon-63146266</g:id>
@@ -12731,18 +12745,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-65497188</g:id>
-      <title>아쿠아슈즈 남성샌들 여름 계곡 여성용 물놀이용품</title>
-      <description>아쿠아슈즈 남성샌들 여름 계곡 여성용 물놀이용품 / 카테고리: 기타 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65497188.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260714_50/1784038528004Nfaor_JPEG/13150307141176548_1518862257.jpg</g:image_link>
+      <g:id>lotteon-64152550</g:id>
+      <title>논슬립 웨이트 트레이닝 장갑 철봉 턱걸이 손목 보호대 헬스 용품</title>
+      <description>논슬립 웨이트 트레이닝 장갑 철봉 턱걸이 손목 보호대 헬스 용품 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64152550.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260804_164/1785776439441aXr1g_JPEG/15147045274896433_914461765.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8000 KRW</g:price>
+      <g:price>17500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
