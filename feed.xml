@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67142149</g:id>
+      <title>선풍기걸이 (2개세트)x(5개)</title>
+      <description>선풍기걸이 (2개세트)x(5개) / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67142149.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260809_228/1786269633550Pynij_JPEG/62731544706301248_267963477.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67141505</g:id>
       <title>캐릭터 3단 완전 자동 양우산 UV차단 가벼운 미니 휴대용 암막 양산</title>
       <description>캐릭터 3단 완전 자동 양우산 UV차단 가벼운 미니 휴대용 암막 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -12871,6 +12885,20 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67143307</g:id>
+      <title>암막 양우산 3단 접이식 자외선차단 양산 휴대용 햇빛가리개 UV40</title>
+      <description>암막 양우산 3단 접이식 자외선차단 양산 휴대용 햇빛가리개 UV40 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67143307.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260809_2/1786270577490W6Sli_JPEG/51865026631971214_1259126273.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16369,6 +16397,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66183873</g:id>
+      <title>원터치방수텐트2 3인용 원터치텐트 원터치자동텐트</title>
+      <description>원터치방수텐트2 3인용 원터치텐트 원터치자동텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66183873.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/55f7/d973670a0921215c6e57ef253bc1acf9a7c630ba7ea3efc1a53d37662487.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>64000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
