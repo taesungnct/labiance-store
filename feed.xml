@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64825741</g:id>
+      <title>방한텐트 난방 싱글</title>
+      <description>방한텐트 난방 싱글 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64825741.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260729_178/1785312950060zLKQz_JPEG/32803516999071506_1552590061.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>143500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67138512</g:id>
       <title>주방 거치대 키친타올 컵 와인잔 걸이 진열대 홀더 조리도구 받침대</title>
       <description>주방 거치대 키친타올 컵 와인잔 걸이 진열대 홀더 조리도구 받침대 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -2145,20 +2159,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-64825741</g:id>
-      <title>방한텐트 난방 싱글</title>
-      <description>방한텐트 난방 싱글 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-64825741.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260729_178/1785312950060zLKQz_JPEG/32803516999071506_1552590061.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>143500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
     <item>
       <g:id>naver-65038164</g:id>
@@ -16327,6 +16327,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64831569</g:id>
+      <title>아스타 이콘 씽크볼(ECJ4587)</title>
+      <description>아스타 이콘 씽크볼(ECJ4587) / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64831569.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e953/728261390de38cf4a980193ac339b8e429ebe5dec4e25c9304404d8f93d7.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>241000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
