@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67172221</g:id>
+      <title>주방 컵 접시 그릇 식기 철재 정리 수납 선반 거치대 2color</title>
+      <description>주방 컵 접시 그릇 식기 철재 정리 수납 선반 거치대 2color / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67172221.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260811_122/1786388474335AQyWY_JPEG/109198184995105242_167850795.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65224232</g:id>
       <title>경량 광폭 몽키 스패너</title>
       <description>경량 광폭 몽키 스패너 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -13263,6 +13277,20 @@
       <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66675535</g:id>
+      <title>체인 동전 다용도 담배 파우치 스트랩 똑딱이 지갑</title>
+      <description>체인 동전 다용도 담배 파우치 스트랩 똑딱이 지갑 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66675535.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260720_184/1784537293567Reze7_JPEG/7614237616239297_308484258.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8900 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16831,6 +16859,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-49080453</g:id>
+      <title>헌트다이어리케이스 갤럭시A35 5G SM-A356N</title>
+      <description>헌트다이어리케이스 갤럭시A35 5G SM-A356N / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-49080453.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/192c/44ca68bc13f08276ad9fa69ad1712ba35dc5da4f8ca729acc184a3cd675c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6300 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
