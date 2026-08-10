@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-60321123</g:id>
+      <title>이니셜 캐릭터 목걸이 지갑 1P 카드 지폐 패션</title>
+      <description>이니셜 캐릭터 목걸이 지갑 1P 카드 지폐 패션 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-60321123.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260811_269/1786377686405AdoCU_JPEG/20081472379201265_1409883730.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>22000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67141505</g:id>
       <title>캐릭터 3단 완전 자동 양우산 UV차단 가벼운 미니 휴대용 암막 양산</title>
       <description>캐릭터 3단 완전 자동 양우산 UV차단 가벼운 미니 휴대용 암막 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -13263,6 +13277,20 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67170041</g:id>
+      <title>명함케이스</title>
+      <description>명함케이스 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67170041.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260811_97/1786378551365kfY0K_JPEG/62840462514380466_2120472245.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16803,6 +16831,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66549258</g:id>
+      <title>아이워너 초정밀 KS-1000 미니체중계 전자체중계 다이어트</title>
+      <description>아이워너 초정밀 KS-1000 미니체중계 전자체중계 다이어트 / 카테고리: 건강용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66549258.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6f82/1ecdad6bf172cc456d6f5c0e25a20955d34d2287635f501497a54ae52487.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
   </channel>
 </rss>
