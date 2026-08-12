@@ -11360,8 +11360,8 @@
     </item>
     <item>
       <g:id>coupang-64770406</g:id>
-      <title>음식물쓰레기통 주방 싱크대 걸이형 휴지통</title>
-      <description>음식물쓰레기통 주방 싱크대 걸이형 휴지통 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>음식물쓰레기통 주방 쓰레기통 싱크대 걸이형 휴지통</title>
+      <description>음식물쓰레기통 주방 쓰레기통 싱크대 걸이형 휴지통 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-64770406.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/da98/042bbeebffab0ed451f37f63168d2799d40c5d7200c1e6bdb7be3c75d196.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -13832,6 +13832,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>9200 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67197413</g:id>
+      <title>3M 후투로 고리형 손목보호대 오른손용</title>
+      <description>3M 후투로 고리형 손목보호대 오른손용 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67197413.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260812_103/1786515391589wwa75_JPEG/52109840734797191_403758326.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>20500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
