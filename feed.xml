@@ -6921,20 +6921,6 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
-      <g:id>11st-66806602</g:id>
-      <title>싱크대세제통 씽크대세제통 매립디스펜서</title>
-      <description>싱크대세제통 씽크대세제통 매립디스펜서 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/11st-66806602.html</link>
-      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/07/25/178498978412A5A2AAB9459FE09CACBF/178498978412A5A2AAB9459FE09CACBF_img_330?hash=2885d0f691b5ca739ba66224c57c0573</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>10000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>11st-66623643</g:id>
       <title>샤워수전 상하좌우 레버 토수구 전환 황동 실버 욕실 샤워</title>
       <description>샤워수전 상하좌우 레버 토수구 전환 황동 실버 욕실 샤워 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -9033,6 +9019,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>11st-65545798</g:id>
+      <title>디지털 급수 타이머 스프링 쿨러 자동물 주기</title>
+      <description>디지털 급수 타이머 스프링 쿨러 자동물 주기 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/11st-65545798.html</link>
+      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/06/02/1780386432EB98F29571D8278D2BF34F/1780386432EB98F29571D8278D2BF34F_img_330?hash=072c08fc272805084301dedad40de56a</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>55500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>lotteon-65739678</g:id>
@@ -13685,7 +13685,7 @@
     <item>
       <g:id>lotteon-64998733</g:id>
       <title>스터디 공부 타이머 주방 조리 시계 시간 용품 관리도구</title>
-      <description>스터디 공부 타이머 주방 조리 시계 시간 용품 관리도구 / 카테고리: 기타 / 라비앙스에서 판매하는 상품입니다.</description>
+      <description>스터디 공부 타이머 주방 조리 시계 시간 용품 관리도구 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-64998733.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260811_259/1786439826644mfTKt_JPEG/6433384680614736_341288645.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -13902,6 +13902,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>7600 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67219868</g:id>
+      <title>피크닉 돗자리</title>
+      <description>피크닉 돗자리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67219868.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_113/1786547769262qM3ab_JPEG/9303196043032340_808925071.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
