@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65712044</g:id>
+      <title>물빠짐 식기건조대 설거지선반</title>
+      <description>물빠짐 식기건조대 설거지선반 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65712044.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_145/1786575641300zSXds_JPEG/66151005166044842_117786252.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8600 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66147882</g:id>
       <title>운동용 스포츠 손목 보호대 헬스용 웨이트</title>
       <description>운동용 스포츠 손목 보호대 헬스용 웨이트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17783,6 +17797,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-60187678</g:id>
+      <title>다비드 더블 천연가죽 갤럭시S10e용 케이스/천연소가죽/이중지갑형/스트랩줄포함</title>
+      <description>다비드 더블 천연가죽 갤럭시S10e용 케이스/천연소가죽/이중지갑형/스트랩줄포함 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-60187678.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c1e5/e99a3f15bd6f122db3a3f98de8613026787be6e61829bfe31f1c668e327d.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
