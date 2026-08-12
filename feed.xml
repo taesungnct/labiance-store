@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65855123</g:id>
+      <title>파이프렌치 350MM(14인치) 토탈공구</title>
+      <description>파이프렌치 350MM(14인치) 토탈공구 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65855123.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260812_3/1786518043280D0dq2_JPEG/41232540992227327_1355978066.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67204281</g:id>
       <title>체중계 LED</title>
       <description>체중계 LED / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -13851,6 +13865,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67198730</g:id>
+      <title>듀오 젤 마우스패드 레드</title>
+      <description>듀오 젤 마우스패드 레드 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67198730.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260812_133/1786518956562tn3CA_JPEG/66094320434117379_1730656446.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>64000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17559,6 +17587,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-58593931</g:id>
+      <title>자석 타이머 대형 60분 교육용 태엽식 칠판부착용</title>
+      <description>자석 타이머 대형 60분 교육용 태엽식 칠판부착용 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-58593931.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/90da/a59507dd79db5cae6498d27477d3172370debc3337559956a4d536bf19e7.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>28500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
