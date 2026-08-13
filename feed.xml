@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64205979</g:id>
+      <title>욕실 물빠짐 무타공 수납함 정리함 다용도 투명</title>
+      <description>욕실 물빠짐 무타공 수납함 정리함 다용도 투명 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64205979.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_178/17866193666854kWuo_JPEG/109429077354126829_497014357.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>20500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67111789</g:id>
       <title>원홀 세면기 수전 수도꼭지</title>
       <description>원홀 세면기 수전 수도꼭지 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14215,6 +14229,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67236083</g:id>
+      <title>메탈스킨 카드 명함지갑 DD-10039</title>
+      <description>메탈스킨 카드 명함지갑 DD-10039 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67236083.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_32/1786619750086mY1No_JPEG/339162216902001_1240129057.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>11500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17534,8 +17562,8 @@
     </item>
     <item>
       <g:id>coupang-67111775</g:id>
-      <title>원홀 세면기 수전 욕실 원홀세면대수전 원홀수전 화장실세면대수전 화장실수도꼭지</title>
-      <description>원홀 세면기 수전 욕실 원홀세면대수전 원홀수전 화장실세면대수전 화장실수도꼭지 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>원홀 세면기 수전 욕실 세면기수전 세면기원홀수전 세면기수도꼭지 원홀수전</title>
+      <description>원홀 세면기 수전 욕실 세면기수전 세면기원홀수전 세면기수도꼭지 원홀수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67111775.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/cfcd/e8df29b8560df3070f83234310f8cf4e7b981877b671d3b8fdfb14a38f65.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -18021,6 +18049,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67084106</g:id>
+      <title>플라워 투인원 요술우산 겸 기능성 암막 양우산</title>
+      <description>플라워 투인원 요술우산 겸 기능성 암막 양우산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67084106.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0f59/b4ec66e0f280292ff4592c2bb8d0b3deffb78264671ac73af51a7102bd84.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
