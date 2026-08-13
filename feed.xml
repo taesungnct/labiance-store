@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-61663009</g:id>
+      <title>접이식 훈제 BBQ 화로 야외 오븐 바베큐 그릴</title>
+      <description>접이식 훈제 BBQ 화로 야외 오븐 바베큐 그릴 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-61663009.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_168/1786579270090xdS3J_JPEG/20283056062362504_1883321715.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>69500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65712044</g:id>
       <title>물빠짐 식기건조대 설거지선반</title>
       <description>물빠짐 식기건조대 설거지선반 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -3394,8 +3408,8 @@
     </item>
     <item>
       <g:id>naver-66824269</g:id>
-      <title>세면 수전 수도꼭지교체</title>
-      <description>세면 수전 수도꼭지교체 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>세면 수전 욕실수도꼭지</title>
+      <description>세면 수전 욕실수도꼭지 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/naver-66824269.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260727_53/1785146423939wmCbn_JPEG/110321289739607167_584549120.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -14014,6 +14028,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>14000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67221526</g:id>
+      <title>키보드 손목받침대</title>
+      <description>키보드 손목받침대 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67221526.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260813_29/1786580144969AeqpM_JPEG/63042056123116346_1067346992.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
