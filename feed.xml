@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65713625</g:id>
+      <title>대나무 사이드선반</title>
+      <description>대나무 사이드선반 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65713625.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260814_225/17866657476663Ej4O_JPEG/36004173854875056_1577072765.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>42000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65856003</g:id>
       <title>몽키 고무핸들 150mm(6인치) 파이프스패너</title>
       <description>몽키 고무핸들 150mm(6인치) 파이프스패너 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14439,6 +14453,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67254731</g:id>
+      <title>혀니추천 키보드패드 마우스손목쿠션</title>
+      <description>혀니추천 키보드패드 마우스손목쿠션 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67254731.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260814_212/1786666559980lh76M_JPEG/5689503150005968_1919313987.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -18301,6 +18329,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-59007002</g:id>
+      <title>핑거홀 암막 5단 양우산 양산 여름 자외선차단 수동 휴대용</title>
+      <description>핑거홀 암막 5단 양우산 양산 여름 자외선차단 수동 휴대용 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-59007002.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/34ab/bb6ec812311604dc51839d90744141b1d4a9bce1112eebe7b064261a66e1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
