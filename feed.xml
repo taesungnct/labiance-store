@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65073364</g:id>
+      <title>혜명몰 식기건조대 높이조절 트레이 낮은초소형</title>
+      <description>혜명몰 식기건조대 높이조절 트레이 낮은초소형 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65073364.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260814_227/1786716037111F8D7G_JPEG/7358441919969947_11344013.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>6600 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67206540</g:id>
       <title>꽃을든남자 레드폴로 동백 헤어트리트먼트 1000ml</title>
       <description>꽃을든남자 레드폴로 동백 헤어트리트먼트 1000ml / 카테고리: 화장품/미용 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16498,8 +16512,8 @@
     </item>
     <item>
       <g:id>coupang-65683626</g:id>
-      <title>선풍기 쿨조끼 아이스조끼 얼음조끼</title>
-      <description>선풍기 쿨조끼 아이스조끼 얼음조끼 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>선풍기 쿨조끼 아이스조끼 냉풍조끼</title>
+      <description>선풍기 쿨조끼 아이스조끼 냉풍조끼 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-65683626.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f45b/5bb747210de6b49bb53b79050f058f68ce891cb9c25594ca7cf75440fcbb.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -18567,6 +18581,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67217466</g:id>
+      <title>카즈미 캠핑 에어매트 차박 매트리스 자충 매트 싱글</title>
+      <description>카즈미 캠핑 에어매트 차박 매트리스 자충 매트 싱글 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67217466.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fd2c/d8eeb93be63b5d9931789a1233ea87e75fe1afd82ca2e73947001007b199.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>218500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
