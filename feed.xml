@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-60559208</g:id>
+      <title>실내 싱글 1-2인용 원터치 난방텐트 방한 겨울</title>
+      <description>실내 싱글 1-2인용 원터치 난방텐트 방한 겨울 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-60559208.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260815_90/1786724116832M4zYq_JPEG/122821304803607514_803428139.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>55500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66789784</g:id>
       <title>차량용 커튼 4장</title>
       <description>차량용 커튼 4장 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14817,20 +14831,6 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-60559208</g:id>
-      <title>실내 싱글 1-2인용 원터치 난방텐트 방한 겨울</title>
-      <description>실내 싱글 1-2인용 원터치 난방텐트 방한 겨울 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-60559208.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260815_90/1786724116832M4zYq_JPEG/122821304803607514_803428139.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>60000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-65928291</g:id>
       <title>모기장텐트 침대방충망</title>
       <description>모기장텐트 침대방충망 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14899,6 +14899,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67294002</g:id>
+      <title>초슬림 맥세이프 자석 스티커 마그누스 링 스마트폰 보조배터리 핸드폰 차량거치대 휴대폰 케이스</title>
+      <description>초슬림 맥세이프 자석 스티커 마그누스 링 스마트폰 보조배터리 핸드폰 차량거치대 휴대폰 케이스 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67294002.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260815_10/1786803315110p6nYt_JPEG/41517812823855296_1369790302.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -18931,6 +18945,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64475104</g:id>
+      <title>코끼리 PD 22.5W 미니 LCD 고속 보조배터리 10000mAh COS</title>
+      <description>코끼리 PD 22.5W 미니 LCD 고속 보조배터리 10000mAh COS / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64475104.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/3478/5d437ca50ebdf44c06bc3bd97a3c48a65f7db2ae5382210d48c003ecf064.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>44500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
