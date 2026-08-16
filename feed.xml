@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65553843</g:id>
+      <title>패브릭에어매트 싱글 자동충전</title>
+      <description>패브릭에어매트 싱글 자동충전 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65553843.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260807_261/1786076150107xjHxe_JPEG/62538061251344625_1285703004.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>149500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66642849</g:id>
       <title>1인 자충 에어매트 싱글</title>
       <description>1인 자충 에어매트 싱글 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -770,20 +784,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>10500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-65553843</g:id>
-      <title>패브릭에어매트 싱글 자동충전</title>
-      <description>패브릭에어매트 싱글 자동충전 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-65553843.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260807_261/1786076150107xjHxe_JPEG/62538061251344625_1285703004.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>149500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -19432,6 +19432,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>104000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67214454</g:id>
+      <title>접이식 폴딩 핸드 카트 L카 손수레 구르마 끌차 대차중형</title>
+      <description>접이식 폴딩 핸드 카트 L카 손수레 구르마 끌차 대차중형 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67214454.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/b47d/2b55d3181ef74e8724fd314ec4d8e6793d69304eba84cf53f9ca7d9f04f3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>43500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
