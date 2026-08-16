@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-63570270</g:id>
+      <title>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드</title>
+      <description>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-63570270.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260817_120/1786898771426RcTKb_JPEG/618183556696548_865987039.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>20000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65494824</g:id>
       <title>웨이브블럭에어매트 캠핑 텐트 간이침대</title>
       <description>웨이브블럭에어매트 캠핑 텐트 간이침대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16743,7 +16757,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>187000 KRW</g:price>
+      <g:price>266000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -19463,20 +19477,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-63570270</g:id>
-      <title>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드</title>
-      <description>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-63570270.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7376/7f60b63fefedc7f0f97b3bc10add2da3a277fbc7d4854c42eb39a7fdef0d.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>28000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
