@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67302672</g:id>
+      <title>야외접이식테이블 플라스틱</title>
+      <description>야외접이식테이블 플라스틱 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67302672.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260816_200/1786881618397Lbsdn_JPEG/30680975436920990_855186914.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>71500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66738189</g:id>
       <title>노트북 북스탠드 독서대 테블릿거치대 책받침대</title>
       <description>노트북 북스탠드 독서대 테블릿거치대 책받침대 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -11289,15 +11303,15 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66643598</g:id>
-      <title>휴대용 독서대 책받침대</title>
-      <description>휴대용 독서대 책받침대 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66643598.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260724_153/1784826940365OGKBz_JPEG/6220562360223858_945170998.jpg</g:image_link>
+      <g:id>lotteon-66736543</g:id>
+      <title>독서대 원목북스탠드 책거치대</title>
+      <description>독서대 원목북스탠드 책거치대 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66736543.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260816_42/1786882526848EYI4S_JPEG/49345986001118084_383652501.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>22500 KRW</g:price>
+      <g:price>18000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -19351,6 +19365,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67302706</g:id>
+      <title>폴딩박스카트 캠핑용구르마 캠 폴딩박스카트세트 수납박스</title>
+      <description>폴딩박스카트 캠핑용구르마 캠 폴딩박스카트세트 수납박스 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67302706.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5cd8/376d0982352d5503f8a8c78d59ca6f1db224ab5bea0be542624740bbcc4c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>73500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
