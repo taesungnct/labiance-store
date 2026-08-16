@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66736018</g:id>
+      <title>에어매트 싱글 자동 휴대용침대</title>
+      <description>에어매트 싱글 자동 휴대용침대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66736018.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260722_101/17847126214290bLXm_JPEG/32078288613427813_1825391728.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>176000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-63570270</g:id>
       <title>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드</title>
       <description>붙이는 암막 거실 커튼 베란다 창문 사무실 블라인드 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -5589,20 +5603,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-66718243</g:id>
-      <title>에어매트 싱글 자동</title>
-      <description>에어매트 싱글 자동 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-66718243.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260722_101/17847126214290bLXm_JPEG/32078288613427813_1825391728.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>184500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
       <g:id>naver-66698067</g:id>
@@ -16386,8 +16386,8 @@
     </item>
     <item>
       <g:id>coupang-66736274</g:id>
-      <title>욕실 원홀 세면기 세면기수전 세면대수도꼭지 세면대수전 원홀세면기 세면수전</title>
-      <description>욕실 원홀 세면기 세면기수전 세면대수도꼭지 세면대수전 원홀세면기 세면수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>욕실 원홀 세면기 세면대수도꼭지 수도꼭지 욕실수전 화장실세면대수전 세면대수전</title>
+      <description>욕실 원홀 세면기 세면대수도꼭지 수도꼭지 욕실수전 화장실세면대수전 세면대수전 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66736274.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e689/5d5bd31b48f0b94f5fa1a9f69d563250c737062f15110aefb6cf8d902070.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -16554,8 +16554,8 @@
     </item>
     <item>
       <g:id>coupang-66643820</g:id>
-      <title>구르마 대 짐카트 핸드카트 대차</title>
-      <description>구르마 대 짐카트 핸드카트 대차 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>구르마 대 이동대차 대차 접이식구르마</title>
+      <description>구르마 대 이동대차 대차 접이식구르마 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66643820.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/4c7d/b9cded8d9f29ae6083b9e7c149547f7243d400d627f1c0c9d49f4e8859ff.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -19474,6 +19474,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>43500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-33363959</g:id>
+      <title>1초완성 접이식 폴딩 모기장 바로펴 원터치 텐트 모기장 싱글 더블 킹 사이즈 사각 모기장</title>
+      <description>1초완성 접이식 폴딩 모기장 바로펴 원터치 텐트 모기장 싱글 더블 킹 사이즈 사각 모기장 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-33363959.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7dc2/b4a42d1eeac484747a77a5814bf4aa323b69b7098cf6470d44acd2a816b1.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>27000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
