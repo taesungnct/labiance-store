@@ -16869,7 +16869,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>266000 KRW</g:price>
+      <g:price>226000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -19642,6 +19642,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>31000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66714214</g:id>
+      <title>사각대차 특대 업소용카트바퀴 접이식구루마 이동식대차 접이식핸드카트 업소용카트중형</title>
+      <description>사각대차 특대 업소용카트바퀴 접이식구루마 이동식대차 접이식핸드카트 업소용카트중형 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66714214.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2ecc/f58af629bc37189847673c26e632c3c73108c96ed52ce412edbbb85ce2ad.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>231000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
