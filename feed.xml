@@ -10828,8 +10828,8 @@
     </item>
     <item>
       <g:id>coupang-66738119</g:id>
-      <title>핸드메이드 도넛 수세미 4P 뜨개수세미 주방수세미 쑤세미 세제수세미 아크릴수세미</title>
-      <description>핸드메이드 도넛 수세미 4P 뜨개수세미 주방수세미 쑤세미 세제수세미 아크릴수세미 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>핸드메이드 도넛 수세미 4P</title>
+      <description>핸드메이드 도넛 수세미 4P / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66738119.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2306/8f550d340a529980ec30b35ca0a53ec394556c64b78312e0c73c4520922d.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -19939,6 +19939,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-62044832</g:id>
+      <title>손난로 손날로 충전식 5000mah C타입 보조배터리 전자 핫팩 충전용 휴대용</title>
+      <description>손난로 손날로 충전식 5000mah C타입 보조배터리 전자 핫팩 충전용 휴대용 / 카테고리: 건강용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-62044832.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2d12/21876d78161b7678abaaca1a1fee5b61f454ae7f3652bc747cf962dbc918.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>18500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
   </channel>
 </rss>
