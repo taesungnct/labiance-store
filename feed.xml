@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65162793</g:id>
+      <title>혜명몰 스마트폰 거치대 진열대</title>
+      <description>혜명몰 스마트폰 거치대 진열대 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65162793.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260819_212/1787085916227I6uDl_JPEG/805328355666129_92979310.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>lotteon-67289702</g:id>
       <title>애완동물 방수 텐트</title>
       <description>애완동물 방수 텐트 / 카테고리: 취미/도서 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -19981,6 +19995,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67368402</g:id>
+      <title>원터치 방수 팝업 텐트 자외선 차단 메쉬창 통풍 캠핑 피크닉용 야외</title>
+      <description>원터치 방수 팝업 텐트 자외선 차단 메쉬창 통풍 캠핑 피크닉용 야외 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67368402.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/811a/e25f4133d5188dfbc109733378d14d27e665cb87b336b52141b16110e9f7.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>57500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
