@@ -19501,7 +19501,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>31500 KRW</g:price>
+      <g:price>39000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -19869,6 +19869,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-46072413</g:id>
+      <title>PD 23W 고속무선충전기 3in1 고속 무선충전기 갤럭시워치충전기 애플워치충전기 무선충전기 무선충전기</title>
+      <description>PD 23W 고속무선충전기 3in1 고속 무선충전기 갤럭시워치충전기 애플워치충전기 무선충전기 무선충전기 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-46072413.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d92e/5641ee9c5b0a3bcaaba74932d3e8cf16de49793924f410e1aec9fbe2cc2b.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>15000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
