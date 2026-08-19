@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67399095</g:id>
+      <title>코너형 샤워 커튼봉 욕실압축봉</title>
+      <description>코너형 샤워 커튼봉 욕실압축봉 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67399095.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260820_235/1787175916674kLKUJ_JPEG/62944218787532449_1024333364.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67393293</g:id>
       <title>간이탈이실 욕실커튼봉 코너형 샤워</title>
       <description>간이탈이실 욕실커튼봉 코너형 샤워 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -20011,18 +20025,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-67399095</g:id>
-      <title>코너형 샤워 커튼봉 욕실압축봉 강력압축봉</title>
-      <description>코너형 샤워 커튼봉 욕실압축봉 강력압축봉 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-67399095.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6018/fbee5d6027a96422eb0ca6d77618befdc192f60e1b9a3d381aacd4048420.jpg</g:image_link>
+      <g:id>coupang-47802083</g:id>
+      <title>간편시공 무타공 셀프 블라인드 암막 붙이는 커튼 블라인드 햇빛가리개 박스포장배송 고정집게 포함</title>
+      <description>간편시공 무타공 셀프 블라인드 암막 붙이는 커튼 블라인드 햇빛가리개 박스포장배송 고정집게 포함 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-47802083.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6743/a659bc62ba6e8e74c8499f8216dec47bc74c9813c87bc022d3cde2e6e294.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>10000 KRW</g:price>
+      <g:price>9100 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
