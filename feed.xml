@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-65957882</g:id>
+      <title>세차용호스 베란다스프레이건</title>
+      <description>세차용호스 베란다스프레이건 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-65957882.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260821_200/1787310039218Acmcu_JPEG/40026937375597497_246696288.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67429234</g:id>
       <title>차량용 자동차 선바이저 폭염 암막 원터치 햇빛가리개</title>
       <description>차량용 자동차 선바이저 폭염 암막 원터치 햇빛가리개 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -20471,6 +20485,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65685913</g:id>
+      <title>카드 명함지갑케이스 신분증케이스 명합지갑</title>
+      <description>카드 명함지갑케이스 신분증케이스 명합지갑 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65685913.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/80fe/379e451a3fad103d02b2331c18dffb70365cd11b85a7bc68139d63c0e97a.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>14500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
