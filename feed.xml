@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67451135</g:id>
+      <title>메쉬 수영가방 백팩 블루 스윔백</title>
+      <description>메쉬 수영가방 백팩 블루 스윔백 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67451135.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260823_120/1787436026225dJm3A_JPEG/14761836328429422_1304864158.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>10000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-62006766</g:id>
       <title>트레일 러닝백 조끼 베스트 경량 등산 가방 백팩</title>
       <description>트레일 러닝백 조끼 베스트 경량 등산 가방 백팩 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16273,6 +16287,20 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-63560045</g:id>
+      <title>노트북 스탠드 수납 케이스 거치대보호 파우치가방</title>
+      <description>노트북 스탠드 수납 케이스 거치대보호 파우치가방 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-63560045.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260823_7/1787436929067aw5Uy_JPEG/97258022881140902_731732276.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>29500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -21311,6 +21339,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67453000</g:id>
+      <title>초보운전 표지판 흡착식</title>
+      <description>초보운전 표지판 흡착식 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67453000.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e3ab/5ddaf4e760e705b01b167933898697d2587567ec273acef441d518d70a51.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>9400 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
