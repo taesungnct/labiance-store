@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-62378483</g:id>
+      <title>WOW 투명 진열대 코너 선반 주방 욕실 수납 접이식 벽걸이</title>
+      <description>WOW 투명 진열대 코너 선반 주방 욕실 수납 접이식 벽걸이 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-62378483.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260822_202/1787367646722hxGU1_JPEG/1051074223163443_88247487.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>15500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-58531108</g:id>
       <title>가구산책 드레스룸 아일랜드 서랍장 600 RC6082</title>
       <description>가구산책 드레스룸 아일랜드 서랍장 600 RC6082 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -20863,6 +20877,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67442668</g:id>
+      <title>오토 원터치텐트 4인용 원터치텐트3-4인용 캠핑텐트 원터치그늘막</title>
+      <description>오토 원터치텐트 4인용 원터치텐트3-4인용 캠핑텐트 원터치그늘막 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67442668.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/25fb/dd00fd153783459ce81c1bbe9b3df65f3905fe2c6d27a876f26d9d82a63b.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>161000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
