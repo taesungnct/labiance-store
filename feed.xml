@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66012107</g:id>
+      <title>세차스프레이폼건 주름관호스</title>
+      <description>세차스프레이폼건 주름관호스 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66012107.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260822_251/1787378418303NLm76_JPEG/97199512118326171_1059132214.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-58531356</g:id>
       <title>가구산책 브로몰딩 접이식 의자 JK108</title>
       <description>가구산책 브로몰딩 접이식 의자 JK108 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -20919,6 +20933,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65086422</g:id>
+      <title>세차폼건 거품분무기 폼세차</title>
+      <description>세차폼건 거품분무기 폼세차 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65086422.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/947a/2c7637e5ebcfd08c2d581405337c1429f8c9effcb61f6660ff46a060e647.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>28000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
