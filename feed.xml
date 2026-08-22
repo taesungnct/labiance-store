@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-58531108</g:id>
+      <title>가구산책 드레스룸 아일랜드 서랍장 600 RC6082</title>
+      <description>가구산책 드레스룸 아일랜드 서랍장 600 RC6082 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-58531108.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260822_26/1787361352767LcgwM_JPEG/9477937079561919_1915501980.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>215500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-59501661</g:id>
       <title>각도조절캠핑의자 접이식낚시 간이 휴대용릴렉스 경량 로우 가벼운</title>
       <description>각도조절캠핑의자 접이식낚시 간이 휴대용릴렉스 경량 로우 가벼운 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15937,15 +15951,15 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-58531108</g:id>
-      <title>가구산책 드레스룸 아일랜드 서랍장 600 RC6082</title>
-      <description>가구산책 드레스룸 아일랜드 서랍장 600 RC6082 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-58531108.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260822_26/1787361352767LcgwM_JPEG/9477937079561919_1915501980.jpg</g:image_link>
+      <g:id>lotteon-58531356</g:id>
+      <title>가구산책 브로몰딩 접이식 의자 JK108</title>
+      <description>가구산책 브로몰딩 접이식 의자 JK108 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-58531356.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260822_216/1787364930462mO49H_JPEG/34649713287963108_270773391.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>232500 KRW</g:price>
+      <g:price>30000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -20663,7 +20677,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>17000 KRW</g:price>
+      <g:price>16000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -20835,6 +20849,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67441755</g:id>
+      <title>접이식 나무 독서대 스마트패드홀더 책거치대 각도조절독서대</title>
+      <description>접이식 나무 독서대 스마트패드홀더 책거치대 각도조절독서대 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67441755.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8a71/ae70c5a5c59a3f876c1c65be3dc46668828cbf97ce0ef303cba28f220b32.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>41500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
