@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67472402</g:id>
+      <title>노트북파우치</title>
+      <description>노트북파우치 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67472402.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_178/17875152414322s228_JPEG/14841051533764299_1632699222.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>19000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67357765</g:id>
       <title>접이식 캠핑 테이블 중 플라스틱야외</title>
       <description>접이식 캠핑 테이블 중 플라스틱야외 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16721,6 +16735,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66721165</g:id>
+      <title>접이식테이블 1200 플라스틱야외테</title>
+      <description>접이식테이블 1200 플라스틱야외테 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66721165.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_93/17875161680415zE7f_JPEG/14841978135946134_1045067073.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>83000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -21927,6 +21955,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66182746</g:id>
+      <title>바퀴 달린 카트 접이식쇼핑카트 접이식핸드카트</title>
+      <description>바퀴 달린 카트 접이식쇼핑카트 접이식핸드카트 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66182746.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fb67/914abc1aedda04ac0921c4e070991708051c15777f03a3e8df61b0d2fc2d.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>34500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
