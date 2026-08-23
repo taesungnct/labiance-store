@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67472450</g:id>
+      <title>노트북파우치</title>
+      <description>노트북파우치 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67472450.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_252/17875170423391pqAS_JPEG/121650013477911264_983153153.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67472402</g:id>
       <title>노트북파우치</title>
       <description>노트북파우치 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -20817,7 +20831,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>32500 KRW</g:price>
+      <g:price>26000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -21966,6 +21980,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>34500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66661303</g:id>
+      <title>폴딩박스카트 접이식핸드카 폴딩카트 장바구니카트 장바구니캐리어 접이식카트 접이식핸드카트 캠핑카트 손</title>
+      <description>폴딩박스카트 접이식핸드카 폴딩카트 장바구니카트 장바구니캐리어 접이식카트 접이식핸드카트 캠핑카트 손 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66661303.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d791/6eb238cc5d4192487646f5149e3431052d48c860f1d93a62c63de42ff799.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>54000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
