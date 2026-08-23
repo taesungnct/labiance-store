@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66093420</g:id>
+      <title>욕실 선반</title>
+      <description>욕실 선반 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66093420.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260823_252/1787479254987DMGhO_JPEG/100754428795981518_468728421.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>11000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67463452</g:id>
       <title>흡착식 욕실선반 투명</title>
       <description>흡착식 욕실선반 투명 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16497,6 +16511,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-66643182</g:id>
+      <title>보조테이블 슬림콘솔 협탁 1인용컴퓨터책상</title>
+      <description>보조테이블 슬림콘솔 협탁 1인용컴퓨터책상 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66643182.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260823_86/1787480152780sGkTw_JPEG/13851873367559741_551561856.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>68500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -21633,6 +21661,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67465113</g:id>
+      <title>노트북파우치 가죽파우치 노트북케이스 노트북용품 15인치노트북파우치</title>
+      <description>노트북파우치 가죽파우치 노트북케이스 노트북용품 15인치노트북파우치 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67465113.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/1e7f/cd7b0c7f2d30f97b5c1ce1e425c1d3b6170e9ba133f38dce135f8b4d024d.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
