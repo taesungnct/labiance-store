@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66091597</g:id>
+      <title>캠핑 테이블</title>
+      <description>캠핑 테이블 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66091597.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260821_142/1787263261970XVlll_JPEG/14589072068448097_1541863175.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>53000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66207640</g:id>
       <title>화장품 정리함 기자수첩</title>
       <description>화장품 정리함 기자수첩 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16621,6 +16635,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67472233</g:id>
+      <title>날개확장 각도조절 독서대 화이트 태블릿거치대</title>
+      <description>날개확장 각도조절 독서대 화이트 태블릿거치대 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67472233.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_248/17875017615463TUvP_JPEG/40218659703564701_1140717863.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>13000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
