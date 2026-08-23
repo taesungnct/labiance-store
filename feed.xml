@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66629124</g:id>
+      <title>탁상 거울 22x22cm 미용</title>
+      <description>탁상 거울 22x22cm 미용 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66629124.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260823_128/1787454074022NNu0x_JPEG/97275167837548210_15390813.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>7100 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67450690</g:id>
       <title>무타공 욕실 세면대 선반 30CM</title>
       <description>무타공 욕실 세면대 선반 30CM / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -21437,6 +21451,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67458628</g:id>
+      <title>노트북 파우치 15in 노트북가방슬림 여성노트북가방 노트북케이스</title>
+      <description>노트북 파우치 15in 노트북가방슬림 여성노트북가방 노트북케이스 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67458628.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/a9c5/7335d1ac510100a03c64aaacc6cfc1f6e54cad1ca5a41552b59738d913b3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>10000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
