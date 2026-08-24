@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-60394894</g:id>
+      <title>노트북가방 서류 남자 파우치 여자</title>
+      <description>노트북가방 서류 남자 파우치 여자 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-60394894.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260825_278/1787587234995yeF7P_JPEG/100862408804831160_831045516.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-56051703</g:id>
       <title>접착식 일자선반/세면대 화장실 정리대 벽</title>
       <description>접착식 일자선반/세면대 화장실 정리대 벽 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -11983,7 +11997,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>20000 KRW</g:price>
+      <g:price>25000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -16999,6 +17013,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-65398551</g:id>
+      <title>005n 독서대 북스탠드 책 노트북거치대</title>
+      <description>005n 독서대 북스탠드 책 노트북거치대 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65398551.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260825_66/1787584713010YjrGS_JPEG/13828511134942280_229794073.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>32000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -22403,6 +22431,34 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65349390</g:id>
+      <title>병원 진료 학교 연구실 회전 체어 오발 진찰 상담 의자</title>
+      <description>병원 진료 학교 연구실 회전 체어 오발 진찰 상담 의자 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65349390.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7ea0/521d078034b95f06e9346ae3d24a9fadb7efe671b0b55219f11487883719.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>64500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-63608965</g:id>
+      <title>세신 기어풀러 3발형 75mm</title>
+      <description>세신 기어풀러 3발형 75mm / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-63608965.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5aa9/84e1d7098f8a8b2bb14f7b50217dc3c76043c60420a54ba9ef3279b147c7.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
