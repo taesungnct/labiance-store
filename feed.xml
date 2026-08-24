@@ -21125,7 +21125,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>50500 KRW</g:price>
+      <g:price>73500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -22375,6 +22375,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65341460</g:id>
+      <title>다용도선반2단 벽걸이선반 창고선반 철선반 주방수납선반</title>
+      <description>다용도선반2단 벽걸이선반 창고선반 철선반 주방수납선반 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65341460.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8e5b/0fed47bd43d18c8514fd33815aa95a48f8316d010c03d71609041156746f.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>84000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
