@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>lotteon-65928291</g:id>
+      <title>모기장텐트 침대방충망</title>
+      <description>모기장텐트 침대방충망 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65928291.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260815_16/1786727716514hf7IW_JPEG/66303080383271097_1213058594.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>31000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67471909</g:id>
       <title>모던 비누대 실버 욕실용품</title>
       <description>모던 비누대 실버 욕실용품 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15839,20 +15853,6 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-65928291</g:id>
-      <title>모기장텐트 침대방충망</title>
-      <description>모기장텐트 침대방충망 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65928291.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260815_16/1786727716514hf7IW_JPEG/66303080383271097_1213058594.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>31000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-66679352</g:id>
       <title>usb 충전 손난로 손핫팩</title>
       <description>usb 충전 손난로 손핫팩 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16817,6 +16817,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67474605</g:id>
+      <title>이동식 틈새선반 슬림 주방</title>
+      <description>이동식 틈새선반 슬림 주방 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67474605.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_85/1787537726548wrRdh_JPEG/8898177690549367_1223966026.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -22095,6 +22109,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65450743</g:id>
+      <title>여자가방 직장인 대학생 쇼퍼백 레오파드 숄더백</title>
+      <description>여자가방 직장인 대학생 쇼퍼백 레오파드 숄더백 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65450743.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e3ab/8d94a70ceede31c682f6e4ac7f719124cc5217adad42378646dd068c98dc.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>17500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
