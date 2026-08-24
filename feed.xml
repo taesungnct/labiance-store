@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-62056420</g:id>
+      <title>[월드온] 대용량 다용도 다수납 빅포켓 운동 가방 크로스 숄더 토트 백팩 피트니스 여행용배낭 수</title>
+      <description>[월드온] 대용량 다용도 다수납 빅포켓 운동 가방 크로스 숄더 토트 백팩 피트니스 여행용배낭 수 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-62056420.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_235/1787540448078bYNnm_JPEG/9657032390475112_1767749111.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>16500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>lotteon-65928291</g:id>
       <title>모기장텐트 침대방충망</title>
       <description>모기장텐트 침대방충망 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -16833,6 +16847,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67477753</g:id>
+      <title>접이식 독서대 태블릿홀더</title>
+      <description>접이식 독서대 태블릿홀더 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67477753.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260824_282/1787535078150hynWq_JPEG/11205627111383564_1126253535.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>40500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -21895,7 +21923,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>15500 KRW</g:price>
+      <g:price>11500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -22123,6 +22151,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66804706</g:id>
+      <title>수전 수세미거치대 주방수납 설거지</title>
+      <description>수전 수세미거치대 주방수납 설거지 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66804706.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6a1b/7ae6262a96e7ad0b9b06024733658dd32cc812618b89d9db2d517414e7ef.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8800 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
