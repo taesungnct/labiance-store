@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-63699261</g:id>
+      <title>생활방수 기내 남녀공용 노트북가방 보스턴백 여행</title>
+      <description>생활방수 기내 남녀공용 노트북가방 보스턴백 여행 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-63699261.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260825_266/1787606118875jVotc_JPEG/13977839459316898_1298446844.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>62000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-64255819</g:id>
       <title>1개 30/40/50cm 접이식 블랙 알루미늄 일자 욕실 선반 수납</title>
       <description>1개 30/40/50cm 접이식 블랙 알루미늄 일자 욕실 선반 수납 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17057,18 +17071,18 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-63699261</g:id>
-      <title>생활방수 기내 남녀공용 노트북가방 보스턴백 여행</title>
-      <description>생활방수 기내 남녀공용 노트북가방 보스턴백 여행 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-63699261.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260825_266/1787606118875jVotc_JPEG/13977839459316898_1298446844.jpg</g:image_link>
+      <g:id>lotteon-60231606</g:id>
+      <title>여자 여성 프론트 포켓 백팩 배낭 미니 보조 가방</title>
+      <description>여자 여성 프론트 포켓 백팩 배낭 미니 보조 가방 / 카테고리: 의류/언더웨어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-60231606.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260825_101/17876097152082VNEd_JPEG/13981435791724558_235510157.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>66500 KRW</g:price>
+      <g:price>40500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -22529,6 +22543,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66281513</g:id>
+      <title>안전 라이더 우비 우비 오토바이 와이드 백팩 레인코트 비옷 빛반사 우비 책가방 우의</title>
+      <description>안전 라이더 우비 우비 오토바이 와이드 백팩 레인코트 비옷 빛반사 우비 책가방 우의 / 카테고리: 의류/언더웨어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66281513.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/4619/494a6a9d84430723fb02a74e19f32430a10751e837c37326199ad83000d8.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
     </item>
   </channel>
 </rss>
