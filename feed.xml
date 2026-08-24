@@ -21265,7 +21265,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>27000 KRW</g:price>
+      <g:price>25500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -22557,6 +22557,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67497265</g:id>
+      <title>캐주얼백팩 학생백팩 데일리백팩 여성백팩 노트북백팩</title>
+      <description>캐주얼백팩 학생백팩 데일리백팩 여성백팩 노트북백팩 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67497265.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/e54f/2c76182dc5934b5fc0c9b881990f9b7e4ad8324d0ce5a819d7a107bf4c04.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>44000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
