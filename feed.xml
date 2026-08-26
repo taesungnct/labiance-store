@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67467528</g:id>
+      <title>노트북가방</title>
+      <description>노트북가방 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67467528.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260827_211/17877852221631SGKl_JPEG/121918193302322365_1588990418.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>37500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67550559</g:id>
       <title>바로찬 강아지 샴푸&amp;린스 4L대용량</title>
       <description>바로찬 강아지 샴푸&amp;amp;린스 4L대용량 / 카테고리: 화장품/미용 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -22623,7 +22637,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>8700 KRW</g:price>
+      <g:price>9900 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
