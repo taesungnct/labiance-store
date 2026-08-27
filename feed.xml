@@ -17114,8 +17114,8 @@
     </item>
     <item>
       <g:id>lotteon-67363218</g:id>
-      <title>보조배터리 손난로 4400mAh 밧데리충전기</title>
-      <description>보조배터리 손난로 4400mAh 밧데리충전기 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>보조배터리 손난로 4400mAh</title>
+      <description>보조배터리 손난로 4400mAh / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-67363218.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260819_91/17870697201026pSHu_JPEG/66645083971083310_1824686138.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -17702,8 +17702,8 @@
     </item>
     <item>
       <g:id>lotteon-66721165</g:id>
-      <title>접이식테이블 1200 플라스틱야외테</title>
-      <description>접이식테이블 1200 플라스틱야외테 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>접이식테이블 1200 폴</title>
+      <description>접이식테이블 1200 폴 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-66721165.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260824_93/17875161680415zE7f_JPEG/14841978135946134_1045067073.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -18203,6 +18203,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-65480738</g:id>
+      <title>접이식 의자</title>
+      <description>접이식 의자 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-65480738.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260828_277/1787865316030QKMmb_JPEG/121998143159988285_597758633.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -21188,8 +21202,8 @@
     </item>
     <item>
       <g:id>coupang-67036289</g:id>
-      <title>앵글밸브부속 수도앵글밸브 변기앵글밸브 10P</title>
-      <description>앵글밸브부속 수도앵글밸브 변기앵글밸브 10P / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>세면기부속 앵글밸브부속 수전부품 상수도밸브 변기앵글밸브 10P</title>
+      <description>세면기부속 앵글밸브부속 수전부품 상수도밸브 변기앵글밸브 10P / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67036289.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2b5f/a5416121037d7d04c5ab1b379a64195e9ee508d6ced55279e7d201829efd.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -24125,6 +24139,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-63951114</g:id>
+      <title>코너선반 블랙X블랙 화장실선반 욕실일자선반 화장실수납대 욕실벽선반</title>
+      <description>코너선반 블랙X블랙 화장실선반 욕실일자선반 화장실수납대 욕실벽선반 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-63951114.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2832/bfcc7a49a5126b3f0510cf5d8ca114e358c9f06025d99ceb15664c436530.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>169500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
