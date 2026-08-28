@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67605650</g:id>
+      <title>접이식 폴딩박스 자동차 트렁크 정리함 세차툴백 차량용 수납 캠핑 카트</title>
+      <description>접이식 폴딩박스 자동차 트렁크 정리함 세차툴백 차량용 수납 캠핑 카트 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67605650.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260829_233/1787933718899exv6Q_JPEG/101208892705552729_374615967.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>49500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66659264</g:id>
       <title>암막커튼 210cm 작은방커텐 24</title>
       <description>암막커튼 210cm 작은방커텐 24 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15140,8 +15154,8 @@
     </item>
     <item>
       <g:id>lotteon-66785819</g:id>
-      <title>RFID 여권케이스</title>
-      <description>RFID 여권케이스 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>RFID 여권케이스 슬리브지갑</title>
+      <description>RFID 여권케이스 슬리브지갑 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-66785819.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260804_256/17857773362431bnbT_JPEG/119910238402027777_207640994.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -18541,20 +18555,6 @@
       <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-67605650</g:id>
-      <title>접이식 폴딩박스 자동차 트렁크 정리함 세차툴백 차량용 수납 캠핑 카트</title>
-      <description>접이식 폴딩박스 자동차 트렁크 정리함 세차툴백 차량용 수납 캠핑 카트 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67605650.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260829_233/1787933718899exv6Q_JPEG/101208892705552729_374615967.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>53000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-54311713</g:id>
       <title>가벼운 접이식 쇼핑카트 부모님시장바구니 캠핑캐리어</title>
       <description>가벼운 접이식 쇼핑카트 부모님시장바구니 캠핑캐리어 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -18581,6 +18581,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67602309</g:id>
+      <title>쇼핑 캐리어 접이식 시장 바구니 롤러 카트 60L</title>
+      <description>쇼핑 캐리어 접이식 시장 바구니 롤러 카트 60L / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67602309.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260829_173/1787944543101YCIXT_JPEG/122077514239861832_84634726.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>37500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
@@ -24671,6 +24685,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65730284</g:id>
+      <title>폴딩 롤 테이블 롤테이블 차박테이블 차박캠핑용품 캠핑용품테이블 캠핑경량롤테이블 경량캠핑테이블</title>
+      <description>폴딩 롤 테이블 롤테이블 차박테이블 차박캠핑용품 캠핑용품테이블 캠핑경량롤테이블 경량캠핑테이블 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65730284.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9f1b/5bad9aba2beb89b603bdb8429b57f6ab2caf3f7e26283ca2edd958e282d2.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>48500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
