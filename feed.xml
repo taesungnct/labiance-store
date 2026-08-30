@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-63613614</g:id>
+      <title>35L 분리형 2단 쓰레기통 휴지통 음식물</title>
+      <description>35L 분리형 2단 쓰레기통 휴지통 음식물 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-63613614.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260830_187/1788076825858EYe4B_JPEG/15402635957685250_1439545688.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>62000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67632921</g:id>
       <title>휴지통 푸쉬도어 분리수거함 대용량 50L 쓰레기통 국내생산 청소용품</title>
       <description>휴지통 푸쉬도어 분리수거함 대용량 50L 쓰레기통 국내생산 청소용품 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15644,8 +15658,8 @@
     </item>
     <item>
       <g:id>lotteon-64687033</g:id>
-      <title>얇은 손목밴드 팔목아대</title>
-      <description>얇은 손목밴드 팔목아대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>얇은 손목밴드</title>
+      <description>얇은 손목밴드 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-64687033.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260804_233/1785816965606HNsG2_JPEG/136501447670591612_1641114211.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -19082,6 +19096,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>43500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67634893</g:id>
+      <title>DZ 2단 손잡이 고중량 접이식 핸드카트 택배 물류센터 짐 운반 구루마 손수레 캐리어</title>
+      <description>DZ 2단 손잡이 고중량 접이식 핸드카트 택배 물류센터 짐 운반 구루마 손수레 캐리어 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67634893.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260830_107/1788077717495jbNeB_JPEG/40794615652402510_1057465169.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>93000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -25385,6 +25413,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65582273</g:id>
+      <title>엠다인 캠핑 랜턴걸이</title>
+      <description>엠다인 캠핑 랜턴걸이 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65582273.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9cea/6de5d62fab3394c483476b783c220cca59c6d9ee8595822ebda8356df55f.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>33500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
