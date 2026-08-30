@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66648946</g:id>
+      <title>엠다인A 티볼리 대시커버</title>
+      <description>엠다인A 티볼리 대시커버 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66648946.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260831_253/1788116439622yEVjy_JPEG/10233023937463953_1900419597.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66664031</g:id>
       <title>엠다인A 사각 휴지통 대형쓰레기통</title>
       <description>엠다인A 사각 휴지통 대형쓰레기통 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -25693,20 +25707,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-66665158</g:id>
-      <title>엠다인A i30 대시커버 가죽대쉬보드커버 대쉬보드커버</title>
-      <description>엠다인A i30 대시커버 가죽대쉬보드커버 대쉬보드커버 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66665158.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/06c3/b6c262629bfce447575c6fdbedb0db49d791199677975b4845d22983d510.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>32500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66649629</g:id>
