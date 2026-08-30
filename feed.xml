@@ -23267,7 +23267,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>33500 KRW</g:price>
+      <g:price>50000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -25469,6 +25469,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65574892</g:id>
+      <title>엠다인 싱크대선반</title>
+      <description>엠다인 싱크대선반 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65574892.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6873/d053ddba80d02e2d5cc32a34985e4be30313c932156aa3bc4c369312a0f6.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>65000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
