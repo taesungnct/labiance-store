@@ -15798,8 +15798,8 @@
     </item>
     <item>
       <g:id>lotteon-64913336</g:id>
-      <title>접이식 피크닉 매트 나들이돗자리</title>
-      <description>접이식 피크닉 매트 나들이돗자리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>접이식 피크닉 매트 예쁜돗자리</title>
+      <description>접이식 피크닉 매트 예쁜돗자리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-64913336.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260806_253/1785996940022sCrrA_JPEG/1174984076197534_1105525750.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -19101,6 +19101,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67191784</g:id>
+      <title>모노리빙 슬라이드서랍 철제</title>
+      <description>모노리빙 슬라이드서랍 철제 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67191784.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260901_151/1788236123051DhlTE_JPEG/40953021196823355_347070094.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>28500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -19785,20 +19799,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-66649124</g:id>
-      <title>엠다인A 주방세제 리필 설거지세제 찌든때제거</title>
-      <description>엠다인A 주방세제 리필 설거지세제 찌든때제거 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66649124.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d588/1067b1a2ddfc6115d5e96579982438d3d00995e2a84edf2cf0b0f3559d27.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>22500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-66665235</g:id>
@@ -25511,6 +25511,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67681620</g:id>
+      <title>갤럭시 S26 S26플러스 S26울트라 라피네 샌드 카드 수납 지갑형 다이어리 핸드폰 케이스</title>
+      <description>갤럭시 S26 S26플러스 S26울트라 라피네 샌드 카드 수납 지갑형 다이어리 핸드폰 케이스 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67681620.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6571/6b040b1f2202a961c78c9507919c2ed03afcc622a203571cf438132d7dc2.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>41500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
