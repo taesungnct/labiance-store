@@ -13739,20 +13739,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66648805</g:id>
-      <title>엠다인A 주방세제 리필 식기세척제 기름때제거</title>
-      <description>엠다인A 주방세제 리필 식기세척제 기름때제거 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66648805.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260719_257/1784459721604TXYbu_JPEG/4549537429353068_938006460.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>11000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-66559713</g:id>
       <title>레귤러 유한락스 2Lx3개 빨래 욕실청소 청소세정제</title>
       <description>레귤러 유한락스 2Lx3개 빨래 욕실청소 청소세정제 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17730,14 +17716,14 @@
     </item>
     <item>
       <g:id>lotteon-65086407</g:id>
-      <title>캠핑 테이블보 매트</title>
-      <description>캠핑 테이블보 매트 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>캠핑 테이블보 매트 식탁보</title>
+      <description>캠핑 테이블보 매트 식탁보 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-65086407.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260816_259/1786821329170BJfm6_JPEG/5844272327531102_1950424214.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>12000 KRW</g:price>
+      <g:price>12500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -24464,8 +24450,8 @@
     </item>
     <item>
       <g:id>coupang-66203743</g:id>
-      <title>부착식 월포켓 키보관함 차키고리</title>
-      <description>부착식 월포켓 키보관함 차키고리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>부착식 월포켓 열쇠걸이 수납포켓</title>
+      <description>부착식 월포켓 열쇠걸이 수납포켓 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66203743.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/ca25/72d9856a9ef318121eddb316bc2d16c434df8b7ed404e31ca8634f16a9a6.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -26141,6 +26127,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64540067</g:id>
+      <title>멀티 욕실 수납정리 거치대 화장실수납걸이 화장실수건걸이 수건걸이선반 욕실수납걸이</title>
+      <description>멀티 욕실 수납정리 거치대 화장실수납걸이 화장실수건걸이 수건걸이선반 욕실수납걸이 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64540067.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/bcc6/ce8251278935e9f72ba46ad6ba31375b03ec16f0e7a736e989e14184c250.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>47500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
