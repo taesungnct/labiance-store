@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67079876</g:id>
+      <title>데스크 오거나이저 책상 정리함 연필꽂이 트레이 사무실</title>
+      <description>데스크 오거나이저 책상 정리함 연필꽂이 트레이 사무실 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67079876.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260905_298/1788555627074NVdC3_JPEG/42730366899435985_2045692944.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-53782418</g:id>
       <title>노바 발볼넓은 체인 여성로퍼 컴포트화 미끄럼방지 여자단화 7134</title>
       <description>노바 발볼넓은 체인 여성로퍼 컴포트화 미끄럼방지 여자단화 7134 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17071,6 +17085,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-61698592</g:id>
+      <title>다용도 책장정리함 아이방수납함 아기</title>
+      <description>다용도 책장정리함 아이방수납함 아기 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-61698592.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260905_280/17885547283908GKct_JPEG/13593949400236164_139112611.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>152000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -24603,18 +24631,18 @@
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-61698592</g:id>
-      <title>다용도 책장정리함 아이방수납함 아기방수납장 아이방정리함 아기장난감정리함 아기정리함 아이방수납 아기</title>
-      <description>다용도 책장정리함 아이방수납함 아기방수납장 아이방정리함 아기장난감정리함 아기정리함 아이방수납 아기 / 카테고리: 유아동 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-61698592.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/dc9f/7ef05909e80add82777d1958657fa2191b60b99e7cd2edc096c2e63d4c6d.jpg</g:image_link>
+      <g:id>coupang-67078682</g:id>
+      <title>테이블 정리함 화장대 책상 연필꽂이 수납함 10개입 애플오렌지 데스크테리어 미니서랍</title>
+      <description>테이블 정리함 화장대 책상 연필꽂이 수납함 10개입 애플오렌지 데스크테리어 미니서랍 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67078682.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2d62/82939110f9f57da8540670b8d104f763fe9b6560dc02e2abf7d5dfa11232.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>171500 KRW</g:price>
+      <g:price>81500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
