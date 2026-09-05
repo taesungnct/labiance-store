@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-59253502</g:id>
+      <title>기아 카니발 4세대 논슬립 데쉬보드커버</title>
+      <description>기아 카니발 4세대 논슬립 데쉬보드커버 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-59253502.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260905_156/1788591626995vAXYr_JPEG/68791240909926651_163631855.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>26000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-59252717</g:id>
       <title>기아 K8 K8(21년-) 논슬립 차량용 대쉬보드커버</title>
       <description>기아 K8 K8(21년-) 논슬립 차량용 대쉬보드커버 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -24909,6 +24923,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65730055</g:id>
+      <title>드라이걸이 헤어드라이기거치대 헤어드라이어거치대 데일리</title>
+      <description>드라이걸이 헤어드라이기거치대 헤어드라이어거치대 데일리 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65730055.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0f77/48f90aca2c21bd9b424d92cb77b7848f84661a449b4323576878a3328919.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>42500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
