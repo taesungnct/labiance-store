@@ -22252,8 +22252,8 @@
     </item>
     <item>
       <g:id>coupang-67350729</g:id>
-      <title>휴대용 그늘막 텐트 그늘막천막 캠핑텐트</title>
-      <description>휴대용 그늘막 텐트 그늘막천막 캠핑텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>휴대용 그늘막 텐트</title>
+      <description>휴대용 그늘막 텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67350729.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/7a07/f905a825584be3c76336154427c6ddf2e449523b898c9972ec45f395c6f7.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -25805,6 +25805,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67031055</g:id>
+      <title>4칸 서랍 정리함</title>
+      <description>4칸 서랍 정리함 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67031055.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9500/9579e914543d04f3a137dcd28dda8d7b04106d2175d0942e08a7f332c2fa.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>29500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
