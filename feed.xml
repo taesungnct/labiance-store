@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67078478</g:id>
+      <title>잠금 서류함 7단 문서보관함 트레이 열쇠 투명</title>
+      <description>잠금 서류함 7단 문서보관함 트레이 열쇠 투명 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67078478.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260904_261/1788532273248aR94P_JPEG/122665112394537744_1097686450.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>59500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-61646786</g:id>
       <title>4단 Key 서류함 A4용지보관함</title>
       <description>4단 Key 서류함 A4용지보관함 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -25749,6 +25763,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65583640</g:id>
+      <title>노랑 삼단 교구장 어린이집교구장 원목수납선반 유치원교구장</title>
+      <description>노랑 삼단 교구장 어린이집교구장 원목수납선반 유치원교구장 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65583640.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/986e/b4ee3bab2fa5f8d4199f2f0c5cbdaacbf1891bb78d9257b32f2ad842b465.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>376000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
