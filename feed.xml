@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-61645329</g:id>
+      <title>5단 Key 서류함 문서보관함</title>
+      <description>5단 Key 서류함 문서보관함 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-61645329.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260908_205/1788854519104Md25f_JPEG/5187655981567612_1495594189.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>59000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67299552</g:id>
       <title>해적 룰렛 게임 내기 가족 통나무 친구 캠핑 복불복</title>
       <description>해적 룰렛 게임 내기 가족 통나무 친구 캠핑 복불복 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -31,20 +45,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-61648302</g:id>
-      <title>5단 Key 서류함 지류장</title>
-      <description>5단 Key 서류함 지류장 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-61648302.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260908_205/1788854519104Md25f_JPEG/5187655981567612_1495594189.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>59000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
     <item>
       <g:id>naver-8391528</g:id>
@@ -17883,6 +17883,20 @@
       <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-64407291</g:id>
+      <title>차량 헤드레스트 머리 받침 카시트 사이드 목 쿠션 자동차 목 베개 용품</title>
+      <description>차량 헤드레스트 머리 받침 카시트 사이드 목 쿠션 자동차 목 베개 용품 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64407291.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260908_27/1788873439862i4QoG_JPEG/123006286795527951_1985516413.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>43500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -26029,6 +26043,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65698222</g:id>
+      <title>차량스티커 290x266mm 안전스티커 화물차용품 자동차반사스티커</title>
+      <description>차량스티커 290x266mm 안전스티커 화물차용품 자동차반사스티커 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65698222.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5571/aedadcb9151c99085fa67c2d11af38ce6cfe0570458c3732e8d3859f662e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>33500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
