@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67854746</g:id>
+      <title>카즈미 AON T-250 에어쉘터 대형 캠핑텐트</title>
+      <description>카즈미 AON T-250 에어쉘터 대형 캠핑텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67854746.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260909_197/1788901272681LSnHr_JPEG/5234409567916874_2040028549.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>1750500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67864912</g:id>
       <title>커튼 거실용 큰창문용 현관 분리 중문</title>
       <description>커튼 거실용 큰창문용 현관 분리 중문 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -10933,7 +10947,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>192000 KRW</g:price>
+      <g:price>217500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -18004,6 +18018,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>29500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67843521</g:id>
+      <title>접이식 박스 캐리어카트</title>
+      <description>접이식 박스 캐리어카트 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67843521.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260909_212/1788902130636QqFDp_JPEG/139253531605905269_613876770.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>30000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -26253,6 +26281,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64157903</g:id>
+      <title>도배 시트지 스티커 접착시트지 신발장시트지 장롱시트지 옷장시트지 씽크대시트지 책상시트지 책장시트지</title>
+      <description>도배 시트지 스티커 접착시트지 신발장시트지 장롱시트지 옷장시트지 씽크대시트지 책상시트지 책장시트지 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64157903.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/1881/ccaa132660a8a1e295bc873733447397fdfb8ac0c7b75899614a99fde396.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>37500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
