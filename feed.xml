@@ -25052,8 +25052,8 @@
     </item>
     <item>
       <g:id>coupang-67627417</g:id>
-      <title>탁상 거울 화장대조명거울 LED거울 LED조명거울 탁상거울</title>
-      <description>탁상 거울 화장대조명거울 LED거울 LED조명거울 탁상거울 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>탁상 거울 탁상조명 조명거울 LED화장대거울 화장대거울</title>
+      <description>탁상 거울 탁상조명 조명거울 LED화장대거울 화장대거울 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67627417.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/69c7/d45ac4499d0ea0130e49f9fcc7e1ff87689a1b87129b6b52d0d6af76bc08.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -25931,6 +25931,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65788263</g:id>
+      <title>캠핑 피크닉 원터치 경량텐트 자동 설치형 해변 물놀이 쉼터</title>
+      <description>캠핑 피크닉 원터치 경량텐트 자동 설치형 해변 물놀이 쉼터 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65788263.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c8e6/3c3408aa0b62736adfd97976f072450b84b5840e81cd25f3b23332fd141a.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>99500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
