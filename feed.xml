@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67882715</g:id>
+      <title>플립형 스마트폰 카드지갑 다이어리 케이스</title>
+      <description>플립형 스마트폰 카드지갑 다이어리 케이스 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67882715.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260909_24/1788948064043y8r3w_JPEG/11504333632404854_21688926.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67879342</g:id>
       <title>하이버전 온온러닝 Cloudswift 아동화 가볍고 통기성이 좋은 스니커즈 남녀 쿠</title>
       <description>하이버전 온온러닝 Cloudswift 아동화 가볍고 통기성이 좋은 스니커즈 남녀 쿠 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -26603,6 +26617,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-56390880</g:id>
+      <title>메모계산기 사무용계산기 메모패드 전자계산기 메모전자계산기 메모계산기</title>
+      <description>메모계산기 사무용계산기 메모패드 전자계산기 메모전자계산기 메모계산기 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-56390880.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6e5a/bfc21813b0bd66b0ff768f75bfdcccdd91f2d31efd457ebfbb9c1cf011d3.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
