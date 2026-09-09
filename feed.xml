@@ -26646,5 +26646,19 @@
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
+    <item>
+      <g:id>coupang-67886585</g:id>
+      <title>간편 신발장 8단</title>
+      <description>간편 신발장 8단 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67886585.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0414/bad56927cb385208ff7065202ee59572771fec076802fce905c6272591d4.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>62500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
   </channel>
 </rss>
