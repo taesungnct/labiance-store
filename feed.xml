@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67892335</g:id>
+      <title>차박텐트-일반(블랙)</title>
+      <description>차박텐트-일반(블랙) / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67892335.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260910_99/1788973235485kpnhK_JPEG/135691554902854324_858135625.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>224500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67890907</g:id>
       <title>차박텐트-폴대(블랙) 캠핑용품</title>
       <description>차박텐트-폴대(블랙) 캠핑용품 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -26785,6 +26799,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67891791</g:id>
+      <title>블루 똑딱이 극세사 담요 (100x150cm)</title>
+      <description>블루 똑딱이 극세사 담요 (100x150cm) / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67891791.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/29ca/83b0b0c0b5c495cc5dc44673b959346557401561f83f77a7468b46666edb.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>32000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
