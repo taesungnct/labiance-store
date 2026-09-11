@@ -13292,14 +13292,14 @@
     </item>
     <item>
       <g:id>coupang-65480360</g:id>
-      <title>가스버너 ST-001A 업소 테이블버너 업소용버너</title>
-      <description>가스버너 ST-001A 업소 테이블버너 업소용버너 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>가스버너 ST-001A 업소 휴대용버너 업소용버너</title>
+      <description>가스버너 ST-001A 업소 휴대용버너 업소용버너 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-65480360.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/f6b4/0a16d4d53cdfb82fc05fb44eb33cd461223fe8ce01026ad6f88039767953.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>52000 KRW</g:price>
+      <g:price>61500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -22545,6 +22545,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-67908470</g:id>
+      <title>접이식 핸드카트 바퀴시장바구니</title>
+      <description>접이식 핸드카트 바퀴시장바구니 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67908470.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260723_39/1784739634738CifVL_JPEG/118872520148693386_801731465.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-60703332</g:id>
       <title>셀링온 뽀모도로타이머</title>
       <description>셀링온 뽀모도로타이머 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -30425,6 +30439,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-65519411</g:id>
+      <title>남성 안전화 GT-204 BL 작업운동화 건설화 산업운동화</title>
+      <description>남성 안전화 GT-204 BL 작업운동화 건설화 산업운동화 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-65519411.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9877/386e1dcc0a8091742e2dcbb0f9314cca8481e053f837bff424950d8a19f4.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>116000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
   </channel>
 </rss>
