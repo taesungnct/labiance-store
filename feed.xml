@@ -15434,8 +15434,8 @@
     </item>
     <item>
       <g:id>lotteon-65035015</g:id>
-      <title>미니 우양산</title>
-      <description>미니 우양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>미니 우양산 슬림우산</title>
+      <description>미니 우양산 슬림우산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/lotteon-65035015.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260711_105/1783743319838y3wNF_JPEG/118475978821193798_1483142806.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -23198,6 +23198,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>172000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-67943534</g:id>
+      <title>가구산책 템바보드 3단 6칸 수납 서랍장 1150 DD674</title>
+      <description>가구산책 템바보드 3단 6칸 수납 서랍장 1150 DD674 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67943534.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260913_209/1789267556253l2gtD_JPEG/51732771374339228_1949133661.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>309500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -31309,18 +31323,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-67943534</g:id>
-      <title>가구산책 템바보드 3단 6칸 수납 서랍장 1150 DD674</title>
-      <description>가구산책 템바보드 3단 6칸 수납 서랍장 1150 DD674 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-67943534.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5521/25667d2164a665b178081537a130d81ceb5e12bd251899ba3a9eb25a461b.jpg</g:image_link>
+      <g:id>coupang-64809261</g:id>
+      <title>이동형 철제 바구니 장식장 4단 폭80cm 거실장식장 진열장 4단철제장식장</title>
+      <description>이동형 철제 바구니 장식장 4단 폭80cm 거실장식장 진열장 4단철제장식장 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64809261.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/3b15/ce34d3310c24512ce523bd6fe5587d14f8758c01131196321f30923dc7dd.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>380500 KRW</g:price>
+      <g:price>60500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
