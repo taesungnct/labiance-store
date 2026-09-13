@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64809261</g:id>
+      <title>이동형 철제 바구니 장식장 4단 폭80cm 진열장</title>
+      <description>이동형 철제 바구니 장식장 4단 폭80cm 진열장 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64809261.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260913_196/1789271155440VK33e_JPEG/123404005585934670_266161226.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>49000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-67942134</g:id>
       <title>브라운1P 팔쿠션 자동차 차량용 팔걸이 캠핑 콘솔</title>
       <description>브라운1P 팔쿠션 자동차 차량용 팔걸이 캠핑 콘솔 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -31321,20 +31335,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-64809261</g:id>
-      <title>이동형 철제 바구니 장식장 4단 폭80cm 거실장식장 진열장 4단철제장식장</title>
-      <description>이동형 철제 바구니 장식장 4단 폭80cm 거실장식장 진열장 4단철제장식장 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64809261.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/3b15/ce34d3310c24512ce523bd6fe5587d14f8758c01131196321f30923dc7dd.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>60500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
