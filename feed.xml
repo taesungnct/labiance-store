@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64191154</g:id>
+      <title>3x3 투명 서랍 정리함 사무용 데스크 소품 수납함 적층형 다용도 보관함</title>
+      <description>3x3 투명 서랍 정리함 사무용 데스크 소품 수납함 적층형 다용도 보관함 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64191154.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260914_33/1789354826122X3Mjq_JPEG/123487690239727884_1529338183.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-61050859</g:id>
       <title>핸들커버 차량용 운전대 D컷호환 370-385mm</title>
       <description>핸들커버 차량용 운전대 D컷호환 370-385mm / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -31685,6 +31699,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66105836</g:id>
+      <title>욕실 수납 행거 화장실 벽면 거치대 세면대 코너 선반</title>
+      <description>욕실 수납 행거 화장실 벽면 거치대 세면대 코너 선반 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66105836.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/ef18/75e3245d66ec6bfb8f2c24af0cac1fee602422d49b81885ca99f3ad43ed6.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>34000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
