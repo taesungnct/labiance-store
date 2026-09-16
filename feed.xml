@@ -5,10 +5,10 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
-      <g:id>naver-68009991</g:id>
-      <title>세계여행 보드게임</title>
-      <description>세계여행 보드게임 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-68009991.html</link>
+      <g:id>naver-68012351</g:id>
+      <title>세계여행 보드게임 학습교구</title>
+      <description>세계여행 보드게임 학습교구 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68012351.html</link>
       <g:image_link>https://shop-phinf.pstatic.net/20260916_87/17895456346822GFg4_JPEG/72600377487303024_1923354429.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
@@ -24377,6 +24377,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-68013978</g:id>
+      <title>군대침낭 밀리터리 캠핑 아웃도어</title>
+      <description>군대침낭 밀리터리 캠핑 아웃도어 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-68013978.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260916_218/1789553717907qrRdE_JPEG/44211708897151991_1916375261.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>122500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-60703332</g:id>
