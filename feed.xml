@@ -28041,7 +28041,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>10000 KRW</g:price>
+      <g:price>8200 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -32858,6 +32858,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>30000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68009417</g:id>
+      <title>예초기줄 2.4mm 70m 나일론커터 예초기나일론줄 예초기나일론날 와이어예초기날</title>
+      <description>예초기줄 2.4mm 70m 나일론커터 예초기나일론줄 예초기나일론날 와이어예초기날 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68009417.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c95d/81a0a7b31c968c86823fa5deb0f1a7fac72392016818f9f11f444009fa77.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>27000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
