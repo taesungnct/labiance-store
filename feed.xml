@@ -27600,8 +27600,8 @@
     </item>
     <item>
       <g:id>coupang-66146921</g:id>
-      <title>스탠드 옷걸이 2단 이단행거 미니행거</title>
-      <description>스탠드 옷걸이 2단 이단행거 미니행거 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>스탠드 옷걸이 2단 옷방행거 철제2단행거</title>
+      <description>스탠드 옷걸이 2단 옷방행거 철제2단행거 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66146921.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/dc25/827ef4c40eb3be65c8d4c2564a051de09100c3e3b72616dbd22bc6f30a81.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -33281,6 +33281,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66683415</g:id>
+      <title>코일호스 고압분사기 가정용세차기 고압분무기 가정용고압세척기 공업용고압세척기</title>
+      <description>코일호스 고압분사기 가정용세차기 고압분무기 가정용고압세척기 공업용고압세척기 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66683415.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5a03/b700dc5e0ae1de21b977accf21815f6d8a7f3b9d0f4cb6787bfc12ec88a5.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>40000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
