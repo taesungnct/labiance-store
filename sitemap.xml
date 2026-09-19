@@ -6019,12 +6019,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://laviance.net/products/11st-65636661.html</loc>
-    <lastmod>2026-09-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://laviance.net/products/11st-65554052.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
@@ -10856,6 +10850,12 @@
   </url>
   <url>
     <loc>https://laviance.net/products/lotteon-68096120.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://laviance.net/products/lotteon-60213603.html</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
