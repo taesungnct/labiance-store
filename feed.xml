@@ -25535,7 +25535,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>38000 KRW</g:price>
+      <g:price>39000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -32508,6 +32508,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>24500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67983469</g:id>
+      <title>완도명가 고급곱창 완도산 추석 재래김 명절 선물세트 한가위 2호 선물세트 원피상사</title>
+      <description>완도명가 고급곱창 완도산 추석 재래김 명절 선물세트 한가위 2호 선물세트 원피상사 / 카테고리: 식품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67983469.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/ce2a/14a3d5bc1471ab0666d10ca5f1758ec7b69d17f610f8d4a1116da99bc33a.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>70000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
