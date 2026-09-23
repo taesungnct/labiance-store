@@ -3943,12 +3943,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://laviance.net/products/11st-64754528.html</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://laviance.net/products/11st-64835211.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
@@ -5990,6 +5984,12 @@
   </url>
   <url>
     <loc>https://laviance.net/products/11st-41263378.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://laviance.net/products/11st-61216991.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -13297,12 +13297,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://laviance.net/products/coupang-67312048.html</loc>
-    <lastmod>2026-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://laviance.net/products/coupang-67312123.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
@@ -14054,6 +14048,18 @@
   </url>
   <url>
     <loc>https://laviance.net/products/coupang-18743034.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://laviance.net/products/coupang-67224107.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://laviance.net/products/coupang-63967028.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
