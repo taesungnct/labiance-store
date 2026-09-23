@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>lotteon-67077507</g:id>
+      <title>LED 큐브 탁상 시계 미니 디지털 흰색 검정 우드</title>
+      <description>LED 큐브 탁상 시계 미니 디지털 흰색 검정 우드 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67077507.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260807_181/1786039317776RjzKl_JPEG/27343244049996637_766782973.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>12000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-43163585</g:id>
       <title>패브릭에어매트 싱글 공기침대 자충식경량 텐트바닥</title>
       <description>패브릭에어매트 싱글 공기침대 자충식경량 텐트바닥 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -17673,20 +17687,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-67077507</g:id>
-      <title>LED 큐브 탁상 시계 미니 디지털 흰색 검정 우드</title>
-      <description>LED 큐브 탁상 시계 미니 디지털 흰색 검정 우드 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67077507.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260807_181/1786039317776RjzKl_JPEG/27343244049996637_766782973.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>12000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-67080835</g:id>
       <title>데일리데코 로즈 클래식 글라스 벽시계</title>
       <description>데일리데코 로즈 클래식 글라스 벽시계 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -32819,6 +32819,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-43756858</g:id>
+      <title>유로 고급 데스크 온열 장패드 손따패드 DC전원으로 전자파제로</title>
+      <description>유로 고급 데스크 온열 장패드 손따패드 DC전원으로 전자파제로 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-43756858.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/2b72/e9019cce703755d0997af184c3c1a8dc647f37c3031c65e2e92ef0b40dfe.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>48500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
