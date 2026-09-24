@@ -28307,7 +28307,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>46000 KRW</g:price>
+      <g:price>33500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Office Supplies</g:google_product_category>
@@ -33194,6 +33194,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>266500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-67897982</g:id>
+      <title>S12호 추석선물세트 참치캔 가공식품 키트 답례품 6개 명절 대량주문 햄 통조림 1박스 세트 식료품</title>
+      <description>S12호 추석선물세트 참치캔 가공식품 키트 답례품 6개 명절 대량주문 햄 통조림 1박스 세트 식료품 / 카테고리: 식품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-67897982.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8e00/8b8bcc835d3fc1581346e2590a981248d0028e0c8d58da0802e563773d9c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>322500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
