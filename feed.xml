@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-66248810</g:id>
+      <title>트레이 K5 콘솔박스 수납함 정리함 RV용품 DL3</title>
+      <description>트레이 K5 콘솔박스 수납함 정리함 RV용품 DL3 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-66248810.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260926_117/1790377256822F76Wh_JPEG/105886147622844779_326284623.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>34500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68192649</g:id>
       <title>차량용재떨이 다용도 LED 재털이 냄새차단 휴지통</title>
       <description>차량용재떨이 다용도 LED 재털이 냄새차단 휴지통 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -14241,6 +14255,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>11st-66259896</g:id>
+      <title>내장형빨대 차량 핸들텀블러 750mL 스포츠 휴대용 컵 스텐</title>
+      <description>내장형빨대 차량 핸들텀블러 750mL 스포츠 휴대용 컵 스텐 / 카테고리: 출산 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/11st-66259896.html</link>
+      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/07/01/1782882859F3E0368B6C127A05E84921/1782882859F3E0368B6C127A05E84921_img_330?hash=99a05e1a92aab854fa7c67850d897354</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
     </item>
     <item>
       <g:id>lotteon-65739678</g:id>
@@ -33367,18 +33395,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-66259896</g:id>
-      <title>내장형빨대 차량 핸들텀블러 750mL 스포츠 휴대용 컵 스텐</title>
-      <description>내장형빨대 차량 핸들텀블러 750mL 스포츠 휴대용 컵 스텐 / 카테고리: 출산 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-66259896.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6796/89e6e16ea033bdaa84bdb3a35b7b0f46fb3d2375d8d81406358f43e11ca1.jpg</g:image_link>
+      <g:id>coupang-66248809</g:id>
+      <title>보관함 차량용 포켓 시트포켓 정리함 세차용보관함 자동차 트렁크</title>
+      <description>보관함 차량용 포켓 시트포켓 정리함 세차용보관함 자동차 트렁크 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66248809.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/c11d/66f836ffa733c321ce70ebba8f99e166710f58d83afa4c7b676916bb62a1.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>29000 KRW</g:price>
+      <g:price>46000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
