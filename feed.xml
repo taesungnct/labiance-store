@@ -30231,20 +30231,6 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
-      <g:id>coupang-67681620</g:id>
-      <title>갤럭시 S26 S26플러스 S26울트라 라피네 샌드 카드 수납 지갑형 다이어리 핸드폰 케이스</title>
-      <description>갤럭시 S26 S26플러스 S26울트라 라피네 샌드 카드 수납 지갑형 다이어리 핸드폰 케이스 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-67681620.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/6571/6b040b1f2202a961c78c9507919c2ed03afcc622a203571cf438132d7dc2.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>41500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Electronics</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-67687542</g:id>
       <title>4단 서빙카트 이동 업소용 핸드카 운반 식당 대차</title>
       <description>4단 서빙카트 이동 업소용 핸드카 운반 식당 대차 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -33547,6 +33533,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty &gt; Personal Care</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-66399159</g:id>
+      <title>카니발 KA4 4세대 튜닝 도어 팔걸이 카본</title>
+      <description>카니발 KA4 4세대 튜닝 도어 팔걸이 카본 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-66399159.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5ae6/64faccf9fc69c98e423baab2047ca02cfd2966702f278b27f8adb5eca68c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
