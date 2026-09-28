@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-67702389</g:id>
+      <title>레드 안전카시트</title>
+      <description>레드 안전카시트 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-67702389.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260929_59/1790630118359jR3x0_JPEG/36735290633752544_1213788520.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>149500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-65686455</g:id>
       <title>바르는 아웃도어 롤온 모기 진드기 기피제 50g 3개 야외해충방지</title>
       <description>바르는 아웃도어 롤온 모기 진드기 기피제 50g 3개 야외해충방지 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -24239,20 +24253,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-67702389</g:id>
-      <title>레드 안전카시트</title>
-      <description>레드 안전카시트 / 카테고리: 출산 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-67702389.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260929_59/1790630118359jR3x0_JPEG/36735290633752544_1213788520.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>161500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
-    </item>
-    <item>
       <g:id>coupang-59070493</g:id>
       <title>스마일 곰 3단자동우산 우양산 UV차단 접이식 3단우산 암막양산 양우산 양산</title>
       <description>스마일 곰 3단자동우산 우양산 UV차단 접이식 3단우산 암막양산 양우산 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -33830,8 +33830,8 @@
     </item>
     <item>
       <g:id>coupang-67813332</g:id>
-      <title>양조간장 고추장 소금 6종 세트 발효 양념 조미료 양념통 키트 추석선물세트 답례품 명절 대량주문</title>
-      <description>양조간장 고추장 소금 6종 세트 발효 양념 조미료 양념통 키트 추석선물세트 답례품 명절 대량주문 / 카테고리: 식품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>양조간장 고추장 소금 6종 세트 발효 양념 조미료 키트 명절 대량주문</title>
+      <description>양조간장 고추장 소금 6종 세트 발효 양념 조미료 키트 명절 대량주문 / 카테고리: 식품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67813332.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8710/c51043df2e5623af9180a0c55c25edeb3a8ebc372533c0a5da5711223032.jpg</g:image_link>
       <g:condition>new</g:condition>
