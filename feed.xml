@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68193102</g:id>
+      <title>WANGO FURNITURE 캠핑용 휴대용 보냉박스 낚시 차박 배달 쿨러 6L 14L</title>
+      <description>WANGO FURNITURE 캠핑용 휴대용 보냉박스 낚시 차박 배달 쿨러 6L 14L / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68193102.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260928_152/1790577928278uakig_JPEG/124710859969084839_823284470.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>21500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-60145291</g:id>
       <title>아이워너 자석 다트 게임 세트 핀포함</title>
       <description>아이워너 자석 다트 게임 세트 핀포함 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -24015,6 +24029,20 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-50055191</g:id>
+      <title>키친아트 스텐 설거지통 싱크대 식기 보관통 8L</title>
+      <description>키친아트 스텐 설거지통 싱크대 식기 보관통 8L / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-50055191.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260928_155/17905797414438IYix_JPEG/25701972546455849_628157119.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>33000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-59070493</g:id>
       <title>스마일 곰 3단자동우산 우양산 UV차단 접이식 3단우산 암막양산 양우산 양산</title>
       <description>스마일 곰 3단자동우산 우양산 UV차단 접이식 3단우산 암막양산 양우산 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -33855,20 +33883,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-68193102</g:id>
-      <title>WANGO FURNITURE 캠핑용 휴대용 보냉박스 아이스박스 낚시 차박 배달 쿨러 6L 14L</title>
-      <description>WANGO FURNITURE 캠핑용 휴대용 보냉박스 아이스박스 낚시 차박 배달 쿨러 6L 14L / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-68193102.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d17b/1387ae45a2d8014e71c00aa5adbd16cf0d4d64cbc1b0c902901749061ff8.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>73000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
