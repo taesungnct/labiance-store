@@ -26480,8 +26480,8 @@
     </item>
     <item>
       <g:id>coupang-59377011</g:id>
-      <title>자동 양산 자외선차단 미니 양우산 휴대용 우양산 우산</title>
-      <description>자동 양산 자외선차단 미니 양우산 휴대용 우양산 우산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>자동 양산 자외선차단 미니 양우산 휴대용</title>
+      <description>자동 양산 자외선차단 미니 양우산 휴대용 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-59377011.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0e6d/801e17198207b0e9ff6e3931b8cd8935029d1293369658edf58398d42215.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -27019,7 +27019,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>11000 KRW</g:price>
+      <g:price>10500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
@@ -29484,6 +29484,20 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>46500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64353187</g:id>
+      <title>3in1 갤럭시용 고속무선충전기 블랙 스마트폰멀티충전기 여행용충전기</title>
+      <description>3in1 갤럭시용 고속무선충전기 블랙 스마트폰멀티충전기 여행용충전기 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64353187.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0275/28a1b1e9a6800c2053ba4bc9b9ceebe5a50a6d18342c48fae6cfb9c10819.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>65500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
@@ -33281,20 +33295,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-64353187</g:id>
-      <title>3in1 갤럭시용 고속무선충전기 블랙 스마트폰멀티충전기 여행용충전기</title>
-      <description>3in1 갤럭시용 고속무선충전기 블랙 스마트폰멀티충전기 여행용충전기 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-64353187.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/0275/28a1b1e9a6800c2053ba4bc9b9ceebe5a50a6d18342c48fae6cfb9c10819.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>65500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Electronics</g:google_product_category>
     </item>
   </channel>
 </rss>
