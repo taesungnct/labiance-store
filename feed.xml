@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68268926</g:id>
+      <title>캠핑테이블 접이식식탁</title>
+      <description>캠핑테이블 접이식식탁 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68268926.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261008_271/1791390626972znlq6_JPEG/5074054472952689_304702851.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-66653232</g:id>
       <title>세계위인 보드게임(클래식)</title>
       <description>세계위인 보드게임(클래식) / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -15055,20 +15069,6 @@
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
-      <g:id>11st-68270601</g:id>
-      <title>캠핑 접이식 휴대용 식탁 중형 간이탁자 폴딩 테이블</title>
-      <description>캠핑 접이식 휴대용 식탁 중형 간이탁자 폴딩 테이블 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/11st-68270601.html</link>
-      <g:image_link>https://cdn1.domeggook.com/upload/item/2026/09/30/1790748394F9994489ED4ABC4E0A7443/1790748394F9994489ED4ABC4E0A7443_img_330?hash=2abe36cd660ce49a08c55d5f5ce6eebb</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>49500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
       <g:id>11st-23458831</g:id>
       <title>j0035 홈오피스 수납장 300하문형 틈새수납장 2color</title>
       <description>j0035 홈오피스 수납장 300하문형 틈새수납장 2color / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -25567,6 +25567,34 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-68434712</g:id>
+      <title>뉴지 주방싱크대용 케스팅 RS600 대붙이 수전용품</title>
+      <description>뉴지 주방싱크대용 케스팅 RS600 대붙이 수전용품 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-68434712.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261008_134/1791389733512GDkRG_JPEG/40959945971775508_979018696.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>67000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>lotteon-68272867</g:id>
+      <title>팔받침대 손목보호대</title>
+      <description>팔받침대 손목보호대 / 카테고리: 디지털/가전 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-68272867.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261008_167/1791391595259QbTY2_JPEG/40961807716803679_1544194356.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>30000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-65602458</g:id>
