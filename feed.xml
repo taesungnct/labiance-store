@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-61699303</g:id>
+      <title>외부차량 주차금지 CCTV녹화중 580x400 표지판</title>
+      <description>외부차량 주차금지 CCTV녹화중 580x400 표지판 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-61699303.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260921_239/1789951541846m8Puj_JPEG/105460432645862932_145276725.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>23500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-50558827</g:id>
       <title>접이식테이블 캠핑용 키친 행사용 휴대용 주방식탁 피크닉보조 차박</title>
       <description>접이식테이블 캠핑용 키친 행사용 휴대용 주방식탁 피크닉보조 차박 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -24911,20 +24925,6 @@
       <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-66247816</g:id>
-      <title>주차금지 CCTV 녹화중</title>
-      <description>주차금지 CCTV 녹화중 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-66247816.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260930_286/17907768530016HDhh_JPEG/19225527137779511_1260070850.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>26500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
-    </item>
-    <item>
       <g:id>lotteon-64261478</g:id>
       <title>시나몬 등받이 의자/플라스틱 포장마차 편의점 간이 허리편한 체어 야외 행사용 포차 보조 책상 식탁</title>
       <description>시나몬 등받이 의자/플라스틱 포장마차 편의점 간이 허리편한 체어 야외 행사용 포차 보조 책상 식탁 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -34919,6 +34919,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68048883</g:id>
+      <title>가구산책 좌식 바퀴형 의자 CS349</title>
+      <description>가구산책 좌식 바퀴형 의자 CS349 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68048883.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/8b24/0958f0ba9d1113aeaa9df92f1cc20cc7befdb4581cdc0b95186634a3be20.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>90000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
