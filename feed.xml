@@ -18877,6 +18877,20 @@
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-64946931</g:id>
+      <title>RFID 차단 여권케이스</title>
+      <description>RFID 차단 여권케이스 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64946931.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260804_17/1785821449598s1dCY_JPEG/2255369725480720_170225901.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>8900 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
+    </item>
+    <item>
       <g:id>lotteon-65624724</g:id>
       <title>멀티포켓 미니 4 카드지갑 나일론파우치</title>
       <description>멀티포켓 미니 4 카드지갑 나일론파우치 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -25371,20 +25385,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>lotteon-64946931</g:id>
-      <title>RFID 차단 여권케이스</title>
-      <description>RFID 차단 여권케이스 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-64946931.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260804_17/1785821449598s1dCY_JPEG/2255369725480720_170225901.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>8900 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
     </item>
     <item>
       <g:id>lotteon-68413726</g:id>
@@ -34793,6 +34793,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68048889</g:id>
+      <title>가구산책 메쉬 좌식 의자 화이트프레임 CS402</title>
+      <description>가구산책 메쉬 좌식 의자 화이트프레임 CS402 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68048889.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/4048/1fb54d4b775517a4c98ffa3587322bfb5d05443e9955c9b5ea53f93ffafa.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>85500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
