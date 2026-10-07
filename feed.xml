@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-54684591</g:id>
+      <title>IGT 호환 유닛 원버너 플레이트 1P 캠핑 테이블 상판</title>
+      <description>IGT 호환 유닛 원버너 플레이트 1P 캠핑 테이블 상판 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-54684591.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261007_201/1791344716199vpAR7_JPEG/22687486864000689_1759227045.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-61268428</g:id>
       <title>텐트 캠핑매트 차박 (퀸)</title>
       <description>텐트 캠핑매트 차박 (퀸) / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -3097,20 +3111,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Apparel &amp; Accessories &gt; Clothing Accessories</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-56369229</g:id>
-      <title>큐브 신발장 조립식 현관 보관함 1열6단</title>
-      <description>큐브 신발장 조립식 현관 보관함 1열6단 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-56369229.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260907_278/1788742833252PYIFt_JPEG/65723679399498909_133265049.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>28000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
     <item>
       <g:id>naver-65804746</g:id>
@@ -34821,6 +34821,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68160180</g:id>
+      <title>차량용 목쿠션 사무실 의자 헤드레스트 목베개</title>
+      <description>차량용 목쿠션 사무실 의자 헤드레스트 목베개 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68160180.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5031/859a3e872ad70f93eac5089522e153c56232fb8d755974415fc539d4d508.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>41500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
