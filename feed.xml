@@ -5711,7 +5711,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>52500 KRW</g:price>
+      <g:price>45500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -25863,6 +25863,20 @@
       <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-57477515</g:id>
+      <title>접이식 그라운드 각도조절 체어 좌식의자 등받이 캠핑</title>
+      <description>접이식 그라운드 각도조절 체어 좌식의자 등받이 캠핑 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-57477515.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261009_130/1791492512332ChYvx_JPEG/634569491429677_1810826235.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>24500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-65602458</g:id>
       <title>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산</title>
       <description>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -35269,20 +35283,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Health &amp; Beauty &gt; Personal Care</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-57477515</g:id>
-      <title>접이식 그라운드 각도조절 체어 좌식의자 등받이 캠핑 체어 각도조절</title>
-      <description>접이식 그라운드 각도조절 체어 좌식의자 등받이 캠핑 체어 각도조절 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-57477515.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/19ac/f4399a41011eee4ed76b40a66c9a166ba2f3335bcc956496475c499a09e6.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>29000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
