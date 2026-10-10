@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68507250</g:id>
+      <title>초경량 알루미늄 접이식 캠핑 테이블 휴대용 미니 백패킹 야외 식탁</title>
+      <description>초경량 알루미늄 접이식 캠핑 테이블 휴대용 미니 백패킹 야외 식탁 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68507250.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261010_39/1791633656806mFRmf_JPEG/775713964323139_419368063.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>25500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68508125</g:id>
       <title>크로스보더 알루미늄 합금 접이식 테이블 야외 휴대용 초경량 캠핑</title>
       <description>크로스보더 알루미늄 합금 접이식 테이블 야외 휴대용 초경량 캠핑 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -28,20 +42,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>21500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-68507250</g:id>
-      <title>초경량 알루미늄 접이식 캠핑 테이블 휴대용 미니 백패킹 야외 식탁</title>
-      <description>초경량 알루미늄 접이식 캠핑 테이블 휴대용 미니 백패킹 야외 식탁 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-68507250.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20261010_39/1791633656806mFRmf_JPEG/775713964323139_419368063.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>25500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -35857,6 +35857,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68494156</g:id>
+      <title>펫 바운서 강아지 흔들의자 캠핑의자</title>
+      <description>펫 바운서 강아지 흔들의자 캠핑의자 / 카테고리: 취미/도서 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68494156.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/eec8/a20df5d40f3f4cd8c865840f20934a5ac55c8fdb95724b7cfb5814e1979e.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>48500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Arts &amp; Entertainment &gt; Hobbies &amp; Creative Arts</g:google_product_category>
     </item>
   </channel>
 </rss>
