@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-63079681</g:id>
+      <title>캠핑 에어매트 더블 텐트침대 두꺼운 대형</title>
+      <description>캠핑 에어매트 더블 텐트침대 두꺼운 대형 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-63079681.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260806_4/1785989754471FY7lR_JPEG/122086942443283430_339885524.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>121000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68524017</g:id>
       <title>캠핑 테이블 화로대 백패킹 휴대용 롤 차박</title>
       <description>캠핑 테이블 화로대 백패킹 휴대용 롤 차박 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -32570,8 +32584,8 @@
     </item>
     <item>
       <g:id>coupang-66091311</g:id>
-      <title>가족 텐트 고은터널텐트 캠핑텐트</title>
-      <description>가족 텐트 고은터널텐트 캠핑텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>가족 텐트 에어텐트 거실형텐트</title>
+      <description>가족 텐트 에어텐트 거실형텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-66091311.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/84a6/36476fc51edf66bb7ebf56f6541a83995582b7b8f075e1228eb18f144d47.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -36081,6 +36095,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68435018</g:id>
+      <title>캠핑용 캐리어 베이직 블랙 웨건 카트 이동식 폴딩 대형손수레 운반</title>
+      <description>캠핑용 캐리어 베이직 블랙 웨건 카트 이동식 폴딩 대형손수레 운반 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68435018.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fde2/599e6cacec0401d5fd1c16843990e55e5ebb41cbf0d13cd430d9126eca7b.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>71500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
