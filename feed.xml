@@ -33361,7 +33361,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>446500 KRW</g:price>
+      <g:price>429500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
@@ -37103,6 +37103,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-64412056</g:id>
+      <title>캠핑용 의자 접이식체어 캠핑용체어 등산용의자 가벼운캠핑의자 보조의자</title>
+      <description>캠핑용 의자 접이식체어 캠핑용체어 등산용의자 가벼운캠핑의자 보조의자 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-64412056.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/bfc7/738ce3b3304d152792ca55491a5de616438d54bdfacd699d5d94cc972b73.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
