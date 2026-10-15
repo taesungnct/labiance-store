@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68638583</g:id>
+      <title>가구산책 접이식 테이블 FS181</title>
+      <description>가구산책 접이식 테이블 FS181 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68638583.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261015_199/1792050325572WK6Tn_JPEG/58236153014138718_411178368.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>31000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-61381083</g:id>
       <title>패드 캠핑 매트리스 자충 싱글 더블</title>
       <description>패드 캠핑 매트리스 자충 싱글 더블 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -31905,7 +31919,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>13500 KRW</g:price>
+      <g:price>17500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -37173,20 +37187,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-68638583</g:id>
-      <title>가구산책 접이식 테이블 FS181</title>
-      <description>가구산책 접이식 테이블 FS181 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-68638583.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/82c5/f8ec13a81aa418e67007f19cc5d7a240272b01e14dc5a12a596d8c2a91cb.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>42000 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
