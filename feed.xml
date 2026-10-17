@@ -33592,8 +33592,8 @@
     </item>
     <item>
       <g:id>coupang-67339264</g:id>
-      <title>페달 휴지통 사각쓰레기통 페달휴지통 페달쓰레기통</title>
-      <description>페달 휴지통 사각쓰레기통 페달휴지통 페달쓰레기통 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>페달 휴지통 페달형쓰레기통 사각쓰레기통 페달휴지통</title>
+      <description>페달 휴지통 페달형쓰레기통 사각쓰레기통 페달휴지통 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67339264.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/fe69/0476cdae8be0820d8491b480285ac31fe614e4c2754f7777dbfb504010b3.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -37173,6 +37173,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-60116574</g:id>
+      <title>보조 간이 심플 등받이 2종 접이식 의자 쿠션 보조 접는 접이식</title>
+      <description>보조 간이 심플 등받이 2종 접이식 의자 쿠션 보조 접는 접이식 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-60116574.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/a91c/e3b570d451735cbca4ce32b18c310441ea214395b68f2862b005e4dcf62c.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>27000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
