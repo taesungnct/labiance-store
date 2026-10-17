@@ -31093,7 +31093,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>30000 KRW</g:price>
+      <g:price>26000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -37117,6 +37117,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68691398</g:id>
+      <title>자동차 뒷좌석 포켓 수납 휴지통 스마트폰거치대 테블릿거치대 차량편의용품뒷자리</title>
+      <description>자동차 뒷좌석 포켓 수납 휴지통 스마트폰거치대 테블릿거치대 차량편의용품뒷자리 / 카테고리: 문구 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68691398.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/3975/3c62f86bcd072f789be69e11148b29dac3178ae733c9c3c961a7f6bb27e4.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>30500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Office Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
