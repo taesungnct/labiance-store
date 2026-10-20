@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68255434</g:id>
+      <title>HJ 0023불멍 화로대 캠핑 바비큐 숯불 모닥불 정원 야외</title>
+      <description>HJ 0023불멍 화로대 캠핑 바비큐 숯불 모닥불 정원 야외 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68255434.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261012_194/1791791366647pmVIW_JPEG/38469787705938865_1558134200.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>641000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68749599</g:id>
       <title>캠핑 전술 테이블 휴대용 다기능 접이식 5</title>
       <description>캠핑 전술 테이블 휴대용 다기능 접이식 5 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -27347,6 +27361,20 @@
       <g:google_product_category>Electronics</g:google_product_category>
     </item>
     <item>
+      <g:id>lotteon-63107285</g:id>
+      <title>자동차 시트방석</title>
+      <description>자동차 시트방석 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-63107285.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261020_161/1792489574371v2Q8G_JPEG/20716003332018533_821642088.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>28500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
+    </item>
+    <item>
       <g:id>coupang-65602458</g:id>
       <title>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산</title>
       <description>스마일 곰돌이 3단 자동 암막 양우산 UV차단 접이식 우양산 귀여운 양산 / 카테고리: 패션잡화 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -35062,8 +35090,8 @@
     </item>
     <item>
       <g:id>coupang-67116401</g:id>
-      <title>반투명 멀티 수납 박스 4칸 서랍형 적층형</title>
-      <description>반투명 멀티 수납 박스 4칸 서랍형 적층형 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <title>반투명 멀티 수납 박스 4칸 서랍형 적층형 미니서랍장 소품수납</title>
+      <description>반투명 멀티 수납 박스 4칸 서랍형 적층형 미니서랍장 소품수납 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
       <link>https://taesungnct.github.io/labiance-store/products/coupang-67116401.html</link>
       <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9273/5cf973036ba0d66cca2fefd481f384b6a8a279c3ee601a648d0f795ac1c6.jpg</g:image_link>
       <g:condition>new</g:condition>
@@ -37383,6 +37411,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68752826</g:id>
+      <title>접이식 캠핑의자 각도조절 롱 릴렉스 경량 하이백</title>
+      <description>접이식 캠핑의자 각도조절 롱 릴렉스 경량 하이백 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68752826.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/5e04/c4e98abeb78574d9a532d38695d6152b36cff7b6b8fe330e75bf3e9777c6.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
     </item>
   </channel>
 </rss>
