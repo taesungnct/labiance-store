@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-63107666</g:id>
+      <title>접이식 캠핑테이블 대</title>
+      <description>접이식 캠핑테이블 대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-63107666.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261020_2/1792495029836dlk6f_JPEG/58680857281372723_763689068.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>52500 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68749601</g:id>
       <title>접이식 테이블 야외 휴대용 전술 바베큐 피크닉 5m</title>
       <description>접이식 테이블 야외 휴대용 전술 바베큐 피크닉 5m / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -27403,18 +27417,18 @@
       <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
     <item>
-      <g:id>lotteon-63107666</g:id>
-      <title>접이식 캠핑테이블 대</title>
-      <description>접이식 캠핑테이블 대 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/lotteon-63107666.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20261020_2/1792495029836dlk6f_JPEG/58680857281372723_763689068.jpg</g:image_link>
+      <g:id>lotteon-68753850</g:id>
+      <title>캠핑의자 HICKIES 페스티벌 등받이 접이식 그라운드체어 RESTER</title>
+      <description>캠핑의자 HICKIES 페스티벌 등받이 접이식 그라운드체어 RESTER / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/lotteon-68753850.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261020_195/1792498609698YjiwC_JPEG/58684437141131480_1944573720.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>56500 KRW</g:price>
+      <g:price>24000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
+      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
     <item>
       <g:id>coupang-65602458</g:id>
@@ -37467,6 +37481,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68742331</g:id>
+      <title>루미나D 테라피젤 손목 보호 장갑 온찜질 손목보호대 손목 감싸는 장갑</title>
+      <description>루미나D 테라피젤 손목 보호 장갑 온찜질 손목보호대 손목 감싸는 장갑 / 카테고리: 건강용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68742331.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/265d/2af58d7bc643ca777dbbc24853d38d1bcf99f195701c0e9b6cc3810c70bd.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>35000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Health &amp; Beauty</g:google_product_category>
     </item>
   </channel>
 </rss>
