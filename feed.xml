@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68789252</g:id>
+      <title>로우체어 중 캠핑용의자 접이식 좌식등산 어린이</title>
+      <description>로우체어 중 캠핑용의자 접이식 좌식등산 어린이 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68789252.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261021_265/1792593951135euPKd_JPEG/20820380101765170_596877581.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>38000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-63315818</g:id>
       <title>캠핑 조명 걸이</title>
       <description>캠핑 조명 걸이 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -37673,7 +37687,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>30500 KRW</g:price>
+      <g:price>29500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
@@ -37915,20 +37929,6 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>coupang-68789252</g:id>
-      <title>로우체어 중 캠핑용의자 접이식 캠핑용품 좌식등산 어린이 접이식캠핑의자어린이 등산캠핑용의자다용도</title>
-      <description>로우체어 중 캠핑용의자 접이식 캠핑용품 좌식등산 어린이 접이식캠핑의자어린이 등산캠핑용의자다용도 / 카테고리: 가구/인테리어 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/coupang-68789252.html</link>
-      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/d4ca/751e6304ac9b1cadec459b7fec9006f739bcac1a499d8e7b79020455177b.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>47500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Home &amp; Garden &gt; Decor</g:google_product_category>
     </item>
   </channel>
 </rss>
