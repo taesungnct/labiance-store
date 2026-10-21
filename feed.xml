@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-64234275</g:id>
+      <title>에코스타 프리미엄 동계침낭 차박 캠핑 겨울 방한</title>
+      <description>에코스타 프리미엄 동계침낭 차박 캠핑 겨울 방한 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-64234275.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20260915_214/178942416675676qnI_JPEG/16009535879137157_1881324392.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>31000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68789252</g:id>
       <title>로우체어 중 캠핑용의자 접이식 좌식등산 어린이</title>
       <description>로우체어 중 캠핑용의자 접이식 좌식등산 어린이 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -3752,20 +3766,6 @@
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
       <g:price>66500 KRW</g:price>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:brand>라비앙스</g:brand>
-      <g:google_product_category>Sporting Goods</g:google_product_category>
-    </item>
-    <item>
-      <g:id>naver-61095087</g:id>
-      <title>국산 에코스타 프리미엄 동계침낭 캠핑 차박 텐트</title>
-      <description>국산 에코스타 프리미엄 동계침낭 캠핑 차박 텐트 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
-      <link>https://taesungnct.github.io/labiance-store/products/naver-61095087.html</link>
-      <g:image_link>https://shop-phinf.pstatic.net/20260915_214/178942416675676qnI_JPEG/16009535879137157_1881324392.jpg</g:image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:quantity>100</g:quantity>
-      <g:price>31000 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Sporting Goods</g:google_product_category>
@@ -30449,7 +30449,7 @@
       <g:condition>new</g:condition>
       <g:availability>in stock</g:availability>
       <g:quantity>100</g:quantity>
-      <g:price>69000 KRW</g:price>
+      <g:price>48500 KRW</g:price>
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Baby &amp; Toddler</g:google_product_category>
