@@ -31,6 +31,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://laviance.net/products/naver-68755573.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://laviance.net/products/naver-64234441.html</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
@@ -1136,12 +1142,6 @@
   </url>
   <url>
     <loc>https://laviance.net/products/naver-68313677.html</loc>
-    <lastmod>2026-10-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://laviance.net/products/naver-68313679.html</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
