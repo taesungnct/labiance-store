@@ -5,6 +5,20 @@
     <link>https://taesungnct.github.io/labiance-store/</link>
     <description>라비앙스 생활용품 전문 스토어 상품 피드</description>
     <item>
+      <g:id>naver-68789891</g:id>
+      <title>캠핑용 자동 충전 에어 매트 1인용 하트유통</title>
+      <description>캠핑용 자동 충전 에어 매트 1인용 하트유통 / 카테고리: 스포츠/레저 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/naver-68789891.html</link>
+      <g:image_link>https://shop-phinf.pstatic.net/20261022_226/17926596376395u6oc_JPEG/145432422211538208_955657351.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>57000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Sporting Goods</g:google_product_category>
+    </item>
+    <item>
       <g:id>naver-68313681</g:id>
       <title>모음 난방용품 방풍 단열 우풍 방한 원터치</title>
       <description>모음 난방용품 방풍 단열 우풍 방한 원터치 / 카테고리: 생활/건강 / 라비앙스에서 판매하는 상품입니다.</description>
@@ -38139,6 +38153,20 @@
       <g:identifier_exists>no</g:identifier_exists>
       <g:brand>라비앙스</g:brand>
       <g:google_product_category>Electronics</g:google_product_category>
+    </item>
+    <item>
+      <g:id>coupang-68817149</g:id>
+      <title>접이식 핸드카트 7륜 바퀴 휴대용 구루마 캠핑 이사 짐수레 대형 캐리어</title>
+      <description>접이식 핸드카트 7륜 바퀴 휴대용 구루마 캠핑 이사 짐수레 대형 캐리어 / 카테고리: 생활용품 / 라비앙스에서 판매하는 상품입니다.</description>
+      <link>https://taesungnct.github.io/labiance-store/products/coupang-68817149.html</link>
+      <g:image_link>https://image1.coupangcdn.com/image/vendor_inventory/9ee4/ca6dad4b3770dab4fb6278edceb26aeeae64b31d1efa6b6bb80d4d375e3f.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:quantity>100</g:quantity>
+      <g:price>71000 KRW</g:price>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:brand>라비앙스</g:brand>
+      <g:google_product_category>Home &amp; Garden &gt; Household Supplies</g:google_product_category>
     </item>
   </channel>
 </rss>
